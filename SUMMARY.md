@@ -12,7 +12,7 @@
 * [Radical change](part-i-the-big-picture/radical-change.md)
 * [Rapid acceleration](part-i-the-big-picture/rapid-acceleration.md)
 * [Profound complexity](part-i-the-big-picture/profound-complexity.md)
-* [Section Summary](part-i-the-big-picture/section-summary.md)
+* [Final thoughts](part-i-the-big-picture/section-summary.md)
 
 ## Endnotes
 

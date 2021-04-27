@@ -1,4 +1,4 @@
-# Section Summary
+# Final thoughts
 
 In Part I, we explored several of the key themes and challenges facing organizations today as they attempt to get ahead of the digital curve.
 
