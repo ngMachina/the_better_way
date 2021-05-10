@@ -26,5 +26,5 @@ In Part II, we will outline five guiding principles you can use to build a respo
 
 Finally in Part III, we’ll introduce you to Rangle’s micro-transformation model, which enables organizations to apply an iterative and incremental approach to transformation that is pragmatic and human centred.
 
-Taken together—or separately—each part can help you articulate and shape your organization's future state of design and strategy, as well as provide guidance and direction as you define your transformation strategy.
+Taken together—or separately—each part can help you articulate and shape your organization's future state as well as provide guidance and direction as you define your transformation strategy.
 
