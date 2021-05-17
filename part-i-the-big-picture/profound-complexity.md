@@ -6,7 +6,7 @@ Most companies today are “divided hierarchies”, a term coined by author Dave
 
 In a divided hierarchy, work is essentially divided and distributed into zones, with each zone performing highly specific, repeatable and well-defined tasks that are delegated top-down using a command-and-control model.
 
-![](../.gitbook/assets/0%20%281%29.png)
+![](../../../../../.gitbook/assets/img1.png)
 
 **Figure 1: Illustration of a “divided” company, adapted from Dave Gray**
 

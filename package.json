@@ -1,0 +1,30 @@
+{
+  "name": "the_better_way",
+  "version": "1.0.0",
+  "description": "_The Better Way:_ A transformation strategy for the real world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-epub": "node epub-build.script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngMachina/the_better_way.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngMachina/the_better_way/issues"
+  },
+  "homepage": "https://github.com/ngMachina/the_better_way#readme",
+  "dependencies": {
+    "ebook-convert": "^2.0.1",
+    "gitbook-cli": "^2.3.2",
+    "graceful-fs": "^4.2.6",
+    "malta": "^4.1.28",
+    "malta-epub": "^1.0.10"
+  },
+  "devDependencies": {
+    "gitbook-plugin-page-footer": "^5.4.3"
+  }
+}
