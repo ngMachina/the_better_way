@@ -1,0 +1,36 @@
+{
+  "title": "The Better Way",
+  "author": "Kevin Gibson",
+  "publisher": "Rangle",
+  "cover": ".gitbook/assets/ebook_cover-1-.png",
+  "content": [
+    {
+      "title": "Preface",
+      "data": "preface/preface.md"
+    },
+    {
+      "title": "Introduction",
+      "data": "part-i-the-big-picture/introduction.md"
+    },
+    {
+      "title": "Radical change",
+      "data": "part-i-the-big-picture/radical-change.md"
+    },
+    {
+      "title": "Rapid acceleration",
+      "data": "part-i-the-big-picture/rapid-acceleration.md"
+    },
+    {
+      "title": "Profound complexity",
+      "data": "part-i-the-big-picture/profound-complexity.md"
+    },
+    {
+      "title": "Final Thoughts",
+      "data": "part-i-the-big-picture/section-summary.md"
+    },
+    {
+      "title": "End Notes",
+      "data": "endnotes/endnotes.md"
+    }
+  ]
+}
