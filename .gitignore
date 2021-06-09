@@ -3,3 +3,4 @@ node_modules
 .buildNum.json
 .idea
 .DS_Store
+.gitbook/the_better_way.epub
