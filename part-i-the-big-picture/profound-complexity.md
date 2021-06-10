@@ -1,12 +1,12 @@
 # Profound complexity
 
-### Organizational structures
+## Organizational structures
 
-Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, [_The Connected Compan_](https://www.goodreads.com/book/show/13628572-the-connected-company?from_search=true&from_srp=true&qid=myA7fm1K6r&rank=1)[_y_](https://www.goodreads.com/book/show/13628572-the-connected-company?from_search=true&from_srp=true&qid=myA7fm1K6r&rank=1) __[\[6\]](../endnotes/endnotes.md).
+Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, [_The Connected Compan_](https://www.goodreads.com/book/show/13628572-the-connected-company?from_search=true&from_srp=true&qid=myA7fm1K6r&rank=1)[_y_](https://www.goodreads.com/book/show/13628572-the-connected-company?from_search=true&from_srp=true&qid=myA7fm1K6r&rank=1) \_\_[\[6\]](../endnotes/endnotes.md).
 
 In a divided hierarchy, work is essentially divided and distributed into zones, with each zone performing highly specific, repeatable and well-defined tasks that are delegated top-down using a command-and-control model.
 
-![](../../../../../.gitbook/assets/img1.png)
+![](../.gitbook/assets/img1.png)
 
 **Figure 1: Illustration of a “divided” company, adapted from Dave Gray**
 
@@ -18,7 +18,7 @@ For transforming organizations, outdated organizational structures that are not 
 
 The solution is for organizations to transform their divided hierarchical organization into network based organizations which are designed to maximize autonomy, collaboration, and flow—the key enablers of innovation.
 
-### Mindset & culture
+## Mindset & culture
 
 As noted earlier, organizational challenges tend to be tightly coupled. This is particularly true of the relationship between organizational structures \(discussed above\) and organizational mindsets and culture.
 
@@ -28,7 +28,11 @@ In our experience, rigid and hierarchical organizational structures tend to fost
 
 This is because in adaptive environments, ambiguity is often high, and employees need to feel safe to ask questions, experiment, and apply divergent thinking in order to discover the right solutions for the challenge at hand.
 
-In his 2014 paper entitled, [_A Typology of Organisational Culture_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf)[_s_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) __[\[7\]](../endnotes/endnotes.md), sociologist Ron Westrum studied organizational culture in complex and risky environments and developed a typology he calls _The Three Cultures Model_. In it, Westrum’s findings indicated that organizations are largely either pathological, bureaucratic, or generative, based on the following traits.
+In his 2014 paper entitled, [_A Typology of Organisational Culture_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf)[_s_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) _\__[_\[7\]_](../endnotes/endnotes.md)_, sociologist Ron Westrum studied organizational culture in complex and risky environments and developed a typology he calls \_The Three Cultures Model_. In it, Westrum’s findings indicated that organizations are largely either pathological, bureaucratic, or generative, based on the following traits.
+
+![](../.gitbook/assets/screen-shot-2021-06-10-at-10.35.14-am.png)
+
+
 
 | **Pathological** | **Bureaucratic** | **Generative** |
 | :--- | :--- | :--- |
@@ -47,7 +51,7 @@ For transforming organizations, this is a key challenge that must not be overloo
 
 The solution is to develop a culture and mindset ecosystem that encourages behaviours that are fit for purpose and influence performance.
 
-### Legacy technology
+## Legacy technology
 
 While outdated organizational structures and sub-optimal mindsets and cultures are significant challenges on their own, many organizations are also grappling with outdated and expensive systems and platforms.
 
@@ -63,7 +67,7 @@ Of course, this is not the only issue. As discussed throughout this book, a digi
 
 The solution is to prioritize customer value and incrementally modernize, replace or purchase only what is necessary to maximize and deliver that value, while implementing a longer term strategy to eliminate systems that are no longer fit for purpose.
 
-### Budgeting
+## Budgeting
 
 Just as fixed and divided hierarchies are ineffective when applied to adaptive working environments, so too, are fixed budgeting processes.
 
@@ -77,5 +81,5 @@ This brings us to the second challenge, which is how funding is allocated. In mo
 
 Finally, perhaps the most vexing challenge of all, is that established companies tend to be highly risk averse and prefer to fund what they know. This often results in a reluctance to fund initiatives that are new or different.
 
-The solution is to replace the lengthy low-value-adding annual budgeting process with an adaptive and incremental model that requires less upfront effort and determinism and only releases funding as value-based measures of success are achieved. 
+The solution is to replace the lengthy low-value-adding annual budgeting process with an adaptive and incremental model that requires less upfront effort and determinism and only releases funding as value-based measures of success are achieved.
 
