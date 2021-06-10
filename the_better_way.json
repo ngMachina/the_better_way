@@ -5,31 +5,31 @@
   "cover": ".gitbook/assets/ebook_cover-1-.png",
   "content": [
     {
-      "title": "Preface",
+      "title": "",
       "data": "preface/preface.md"
     },
     {
-      "title": "Introduction",
+      "title": "",
       "data": "part-i-the-big-picture/introduction.md"
     },
     {
-      "title": "Radical change",
+      "title": "",
       "data": "part-i-the-big-picture/radical-change.md"
     },
     {
-      "title": "Rapid acceleration",
+      "title": "",
       "data": "part-i-the-big-picture/rapid-acceleration.md"
     },
     {
-      "title": "Profound complexity",
+      "title": "",
       "data": "part-i-the-big-picture/profound-complexity.md"
     },
     {
-      "title": "Final Thoughts",
+      "title": "",
       "data": "part-i-the-big-picture/section-summary.md"
     },
     {
-      "title": "End Notes",
+      "title": "",
       "data": "endnotes/endnotes.md"
     }
   ]
