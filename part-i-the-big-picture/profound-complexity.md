@@ -30,6 +30,8 @@ This is because in adaptive environments, ambiguity is often high, and employees
 
 In his 2014 paper entitled, [_A Typology of Organisational Culture_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf)[_s_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf) _\__[_\[7\]_](../endnotes/endnotes.md)_, sociologist Ron Westrum studied organizational culture in complex and risky environments and developed a typology he calls \_The Three Cultures Model_. In it, Westrum’s findings indicated that organizations are largely either pathological, bureaucratic, or generative, based on the following traits.
 
+![](../.gitbook/assets/table.png)
+
 | **Pathological** | **Bureaucratic** | **Generative** |
 | :--- | :--- | :--- |
 | Low cooperation | Modest cooperation | High cooperation |
