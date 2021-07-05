@@ -10,7 +10,7 @@ So far, it seems that no industry is immune. At the heart of business model inno
 
 In his 2019 book, _Unlocking the Customer Value Chain_, Teixeira describes how upstarts disrupt established players by eliminating as many non-value added activities from the customer experience as possible. To better illustrate how decoupling works, we’ve included additional examples from Teixeira’s earlier work in Figure N below.
 
-![](../../.gitbook/assets/0%20%286%29.png)
+![](../../.gitbook/assets/0%20%287%29.png)
 
 **Figure N: Examples of decoupled activities and their disruptors**
 
