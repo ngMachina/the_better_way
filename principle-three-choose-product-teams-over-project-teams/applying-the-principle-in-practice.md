@@ -14,7 +14,7 @@ _Note: We want to again reiterate that in this context, “customer” could mea
 
 Once the groups are merged, our suggestion is to consider deploying 90% of the newly formed organization on three key strategic fronts:
 
-![](../.gitbook/assets/0%20%285%29.png)
+![](../.gitbook/assets/0%20%286%29.png)
 
 The remaining 10% should be left unused, to ensure there is enough slack in the system to handle emergent needs and avoid the pitfalls that come with over-utilization, which counter-intuitively tends to decrease efficiency rather than increase it.
 

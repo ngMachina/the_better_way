@@ -48,7 +48,10 @@
   * [Pragmatic insight](principle-three-choose-product-teams-over-project-teams/pragmatic-insight.md)
   * [Final thoughts](principle-three-choose-product-teams-over-project-teams/final-thoughts.md)
 * [Principle four: divide and conquer](principle-four-divide-and-conquer-1/README.md)
+  * [Applying the principle in practice](principle-four-divide-and-conquer-1/applying-the-principle-in-practice.md)
   * [What good looks like](principle-four-divide-and-conquer-1/what-good-looks-like.md)
   * [Common failure modes](principle-four-divide-and-conquer-1/common-failure-modes.md)
   * [Final thoughts](principle-four-divide-and-conquer-1/final-thoughts.md)
+* [Principle five: Integrate lightweight GRC with product teams early and often](principle-five-integrate-lightweight-grc-with-product-teams-early-and-often.md)
+* [Untitled](untitled.md)
 

@@ -36,7 +36,7 @@ To get started on defining your platform strategy, the key question that must be
 
 First, the term ‘strategic’ in this context means ensuring that every technology investment is aligned with Principle One, i.e. customer value and adaptability \(CVA\). Second, the term ‘incremental’ in this context means avoiding lengthy, big-bang technology solutions in favor of thinly-sliced, customer-centric outcome based initiatives like the one shown in Figure N which can deliver incremental measures of value in days or weeks, rather than months.
 
-![](../.gitbook/assets/1%20%283%29.png)
+![](../.gitbook/assets/1%20%284%29.png)
 
 Figure N: Example of a thin-sliced, short cycle outcome
 
