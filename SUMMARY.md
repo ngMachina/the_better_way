@@ -36,5 +36,10 @@
   * [Common failure modes](principle-one-focus-on-customer-value-and-adaptability/common-failure-modes.md)
   * [Pragmatic insight](principle-one-focus-on-customer-value-and-adaptability/pragmatic-insight.md)
   * [Final thoughts](principle-one-focus-on-customer-value-and-adaptability/final-thoughts.md)
-* [Principle two: technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy.md)
+* [Principle two: technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy/README.md)
+  * [Applying the principle in practice](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice/README.md)
+    * [Competency one: Platforms not software](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice/competency-one-platforms-not-software/README.md)
+      * [Step one: Map the customer experience](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice/competency-one-platforms-not-software/step-one-map-the-customer-experience.md)
+      * [Step two: Map the operational value stream](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice/competency-one-platforms-not-software/step-two-map-the-operational-value-stream.md)
+    * [Competency two: Continuous delivery and DevOps](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice/competency-two-continuous-delivery-and-devops.md)
 

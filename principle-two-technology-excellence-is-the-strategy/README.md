@@ -28,7 +28,7 @@ Applying principle two in practice means starting with the first competency, whi
 
 As shown in Figure N below, meeting the two involves evaluating the customer experience and the activities that make up that experience from end to end, starting from the digital experience. This is comprised of devices, interfaces and user experience, and how they inter-operate with consumer touchpoints \(such as customer service and technical support\), followed by the back office operations that support that experience.
 
-![](.gitbook/assets/0%20%283%29.png)
+![](../.gitbook/assets/0%20%283%29.png)
 
 Figure N: Technology as strategy, end to end
 
@@ -36,7 +36,7 @@ To get started on defining your platform strategy, the key question that must be
 
 First, the term ‘strategic’ in this context means ensuring that every technology investment is aligned with Principle One, i.e. customer value and adaptability \(CVA\). Second, the term ‘incremental’ in this context means avoiding lengthy, big-bang technology solutions in favor of thinly-sliced, customer-centric outcome based initiatives like the one shown in Figure N which can deliver incremental measures of value in days or weeks, rather than months.
 
-![](.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/1%20%282%29.png)
 
 Figure N: Example of a thin-sliced, short cycle outcome
 
@@ -50,7 +50,7 @@ In order to improve the customer experience using technology in a meaningful way
 
 This process is a useful way to capture the pivotal moments that occur between a consumer and a business at each stage in the customer journey. Completing this exercise will enable you to apply the CVA principle and determine what the customer might be thinking and feeling as they move through the journey. To get a sense of what a customer experience map might look like, we’ve adapted the following customer experience map from [Gus Svendsen](https://medium.com/@svencali).
 
-![](.gitbook/assets/2%20%281%29.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 Figure N: example of a customer experience map and value stream map
 
@@ -74,7 +74,7 @@ DevOps, which is a portmanteau for development and operations, is an extension o
 
 At the heart of the DevOps philosophy is the notion that organizations no longer need to choose between speed and stability. It is possible to achieve both by implementing good IT practices guided by the five core ideals outlined by Gene Kim in his 2019 book, _The Unicorn Project_:[\[2\]]()
 
-![](.gitbook/assets/3%20%282%29.png)
+![](../.gitbook/assets/3%20%282%29.png)
 
 Table N: The Five Ideals of DevOps
 
