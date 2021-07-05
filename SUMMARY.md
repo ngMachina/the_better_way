@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Better Way: Transformation principles for the real world \(Early Preview\)](README.md)
+* [The Better Way: Transformation principles for the real world](README.md)
 
 ## Preface
 

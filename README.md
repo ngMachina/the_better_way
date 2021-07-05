@@ -5,7 +5,7 @@ description: >-
   release May 17, 2021.
 ---
 
-# The Better Way: Transformation principles for the real world \(Early Preview\)
+# The Better Way: Transformation principles for the real world
 
 ##  
 
