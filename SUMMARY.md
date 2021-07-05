@@ -6,3 +6,35 @@
 
 * [Endnotes](endnotes/endnotes.md)
 
+## Preface
+
+* [Preface](preface/preface.md)
+
+## Part I - The Big Picture <a id="why-digital-transformation-is-important"></a>
+
+* [Introduction](why-digital-transformation-is-important/introduction.md)
+* [Radical change](why-digital-transformation-is-important/radical-change/README.md)
+  * [Evolving consumer preferences](why-digital-transformation-is-important/radical-change/evolving-consumer-preferences.md)
+  * [Business model innovation](why-digital-transformation-is-important/radical-change/business-model-innovation.md)
+* [Rapid acceleration](why-digital-transformation-is-important/rapid-acceleration/README.md)
+  * [Exponential technological progress](why-digital-transformation-is-important/rapid-acceleration/exponential-technological-progress.md)
+* [Profound complexity](why-digital-transformation-is-important/profound-complexity/README.md)
+  * [Organizational structure](why-digital-transformation-is-important/profound-complexity/organizational-structure.md)
+  * [Mindset and culture](why-digital-transformation-is-important/profound-complexity/mindset-and-culture.md)
+  * [Legacy technology](why-digital-transformation-is-important/profound-complexity/legacy-technology.md)
+  * [Budgeting](why-digital-transformation-is-important/profound-complexity/budgeting.md)
+* [Summary](why-digital-transformation-is-important/summary.md)
+
+## Part II - The better way <a id="six-principles-of-digital-transformation"></a>
+
+---
+
+* [Introduction](introduction.md)
+* [Principle one: Focus on customer value and adaptability](principle-one-focus-on-customer-value-and-adaptability/README.md)
+  * [Applying the principle in practice](principle-one-focus-on-customer-value-and-adaptability/applying-the-principle-in-practice.md)
+  * [What good looks like](principle-one-focus-on-customer-value-and-adaptability/what-good-looks-like.md)
+  * [Common failure modes](principle-one-focus-on-customer-value-and-adaptability/common-failure-modes.md)
+  * [Pragmatic insight](principle-one-focus-on-customer-value-and-adaptability/pragmatic-insight.md)
+  * [Final thoughts](principle-one-focus-on-customer-value-and-adaptability/final-thoughts.md)
+* [Principle two: technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy.md)
+
