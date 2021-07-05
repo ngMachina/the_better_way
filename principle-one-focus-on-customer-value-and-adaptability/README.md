@@ -44,7 +44,7 @@ Next, we’ll break down the CVA principle and show how it can be applied in pra
 
 To apply CVA in practice, start by visualizing your organization as an ecosystem of interdependent business functions like those shown in Figure N below.
 
-![](../.gitbook/assets/0%20%284%29.png)
+![](../.gitbook/assets/0%20%285%29.png)
 
 Figure N: Example of an organizational ecosystem
 
