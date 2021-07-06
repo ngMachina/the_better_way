@@ -34,7 +34,7 @@ Working through this process is a good way to shed light on where the longest wa
 
 These measurements provide rich opportunities for organizations to improve the customer experience by combining strategy, product and user experience capabilities with engineering and data capabilities.
 
-## Competency 2: DevOps
+### Competency 2: DevOps
 
 In order to deliver on the strategic competencies outlined above, transforming organizations must also develop the tactical competencies needed to accelerate the flow of value using [continuous delivery](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#) practices like version control, deployment automation, test automation and test data management in addition to the best practices recommended by the [DevOps](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#) community.
 
