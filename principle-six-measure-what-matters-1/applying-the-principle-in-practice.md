@@ -12,9 +12,7 @@ Your hypotheses are just educated guesses at this point, so the next step is to 
 
 To get a sense of what that process might look like, we’ve adapted the following diagram from Teresa Torres to show how this works in practice.
 
-![](../.gitbook/assets/0%20%2815%29.png)
-
-Figure N: Using a series of experiments to discover the best outcome
+![Figure K: Using a series of experiments to discover the best outcome](../.gitbook/assets/0%20%2815%29.png)
 
 The last piece of this process are the measures of success themselves, i.e. How will we know we are successful?” In this example, the best way to measure success is to design bespoke measures of success using a combination of leading and lagging indicators.
 
@@ -22,11 +20,9 @@ Leading indicators are actionable, and their job is to tell us whether we’re g
 
 Taken together, our leading and lagging indicators should be able to tell us whether we are likely to be successful with enough time and pressure, or whether we should cancel our investment and develop a new series of tests.
 
-To help you get started, we’ve provided Table N below, which demonstrates how we might operationalize this at Rangle.
+To help you get started, we’ve provided Table VI below, which demonstrates how we might operationalize this at Rangle.
 
-![](../.gitbook/assets/1%20%287%29.png)
-
-Table N: Structuring a Business Objective
+![Table VI: Structuring a Business Objective](../.gitbook/assets/1%20%287%29.png)
 
 As you can see, motivating teams to achieve outcomes based on measures of success that correlate to organizational business goals is quite different from directing teams to deliver a set of requirements on time, scope and budget.
 
