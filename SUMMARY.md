@@ -49,7 +49,7 @@
   * [What good looks like](principle-six-measure-what-matters-1/what-good-looks-like.md)
   * [Common failure modes](principle-six-measure-what-matters-1/common-failure-modes.md)
   * [Final thoughts](principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
-* [Summary](summary.md)
+* [Part II Summary](summary.md)
 
 ## Part III - Micro-transformation
 
@@ -66,10 +66,7 @@
   * [Why it works](step-two-create-immersive-working-environments/why-it-works.md)
   * [Final thoughts](step-two-create-immersive-working-environments/final-thoughts.md)
 * [Step three: Implement the Starter Kata](step-three-implement-the-starter-kata/README.md)
-  * [How it works](step-three-implement-the-starter-kata/how-it-works/README.md)
-    * [Step two: grasp the current condition](step-three-implement-the-starter-kata/how-it-works/step-two-grasp-the-current-condition.md)
-    * [Step three: establish the next target condition](step-three-implement-the-starter-kata/how-it-works/step-three-establish-the-next-target-condition.md)
-    * [Step four: experiment toward the next target condition](step-three-implement-the-starter-kata/how-it-works/step-four-experiment-toward-the-next-target-condition.md)
+  * [How it works](step-three-implement-the-starter-kata/how-it-works.md)
   * [Why it works](step-three-implement-the-starter-kata/why-it-works.md)
   * [Final thoughts](step-three-implement-the-starter-kata/final-thoughts.md)
 * [Step four: Thin-slice the work](step-four-thin-slice-the-work/README.md)

@@ -1,4 +1,4 @@
-# Summary
+# Part II Summary
 
 An effective transformation strategy must do more than articulate aspirational statements of ambition. Instead, it has to first diagnose the challenges at hand \(see Part I\), and then develop guiding policies that not only addresses the challenge, but also creates a source of lasting advantage.
 

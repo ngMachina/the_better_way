@@ -9,7 +9,7 @@ The Coaching Kata is used to teach coalitions and pods how to _apply_ the Improv
 
 _Note: We will explore the five questions in more detail later._
 
-![](../../.gitbook/assets/0%20%2819%29.png)
+![](../.gitbook/assets/0%20%2819%29.png)
 
 Figure O: The Improvement Kata and Coaching Kata working in parallel
 
@@ -49,7 +49,31 @@ Without a target condition, many teams will engage in unproductive, unvalidated 
 
 One of the most effective ways for coalitions and pods to establish a target condition is to follow the “when, what, how” approach. In this case, _when_ represents the “achieve-by date”, _what_ represents a “measurable improvement metric” and _how_ represents “the new operating pattern” \(i.e. the future state\). Once the target condition has been established, coalitions and pods can use an Improvement Board like the one shown in Figure P below to help them visualize the work in process and track measurable improvement metrics from the current to target condition.
 
-![Figure P: Example of an Improvement Board](../../.gitbook/assets/0%20%2811%29.png)
+![Figure P: Example of an Improvement Board](../.gitbook/assets/0%20%2811%29.png)
 
 The Improvement Board is not only a visualization tool. It will also provide the focal point for daily coaching activities \(the Coaching Kata\), which we will explore in more detail in the next section.
+
+### **Step IV: Experiment toward the target condition**
+
+The last step in the Starter Kata requires teams to experiment toward the target condition in “steps”. As mentioned earlier, the path to the outcome is uncertain, and because our own understanding may be currently limited, it’s important that we stay focused on experimenting in small steps.
+
+Through these small steps, not only will the outcomes become less uncertain, but our own knowledge will also increase and enable us to think rationally about what the next step might be.
+
+Step four is fundamentally a process of following the scientific method, starting with a hypothesis and then testing that hypothesis objectively against information gathered to routinely compare the current and target conditions.
+
+To do this, many teams use the well-known Plan-Do-Check-Act \(PDCA\) cycle which we’ve summarized in Table VII below.
+
+![Table VII: The four step PDCA cycle](../.gitbook/assets/0%20%2812%29.png)
+
+As teams move through the PDCA cycle, they use the Improvement Board shown in Figure P to keep track of their overall progress as well as to guide their daily Coaching Kata discussions.
+
+During the daily coaching discussions, and at the beginning of each experimentation cycle, coaches will team the same five questions, which we’ve summarized below.
+
+**The Five Coaching Kata Questions**
+
+1. What is the target condition?
+2. What is the actual, current condition?
+3. What obstacles do you think are preventing you from reaching the target condition, and which one are you addressing now?
+4. What is your next step?
+5. How quickly can we go and see what we have learned from taking that step?
 
