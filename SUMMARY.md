@@ -14,14 +14,9 @@
 
 * [Introduction](why-digital-transformation-is-important/introduction.md)
 * [Radical change](why-digital-transformation-is-important/radical-change.md)
-* [Rapid acceleration](why-digital-transformation-is-important/rapid-acceleration/README.md)
-  * [Exponential technological progress](why-digital-transformation-is-important/rapid-acceleration/exponential-technological-progress.md)
-* [Profound complexity](why-digital-transformation-is-important/profound-complexity/README.md)
-  * [Organizational structure](why-digital-transformation-is-important/profound-complexity/organizational-structure.md)
-  * [Mindset and culture](why-digital-transformation-is-important/profound-complexity/mindset-and-culture.md)
-  * [Legacy technology](why-digital-transformation-is-important/profound-complexity/legacy-technology.md)
-  * [Budgeting](why-digital-transformation-is-important/profound-complexity/budgeting.md)
-* [Summary](why-digital-transformation-is-important/summary.md)
+* [Rapid acceleration](why-digital-transformation-is-important/rapid-acceleration.md)
+* [Profound complexity](why-digital-transformation-is-important/profound-complexity.md)
+* [Part I Summary](why-digital-transformation-is-important/summary.md)
 
 ## Part II - The better way <a id="six-principles-of-digital-transformation"></a>
 

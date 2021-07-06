@@ -1,4 +1,6 @@
-# Exponential technological progress
+# Rapid acceleration
+
+### **Exponential technological progress**
 
 “We live in exciting times of fundamental technological change” wrote Marc Benioff, Chairman and CEO of Salesforce, in the Foreword to 2014’s _The Fourth Industrial Revolution_, by Klaus Schwab.
 
