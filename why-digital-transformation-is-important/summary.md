@@ -6,7 +6,7 @@ Transformation is achievable but it requires commitment, resiliency and investme
 
 For companies willing to move beyond wishful thinking and commit to success, there is a path. To make it all work, leaders and their employees will need to embrace responsiveness as a core ethos and learn to adapt to new organizational structures, new mindsets and cultures, and new ways of working. This is the path to creating an organization that is more responsive, resilient and able to adapt to change as it occurs to create opportunities through digital. 
 
-Next, in Part II, we’ll explore the six principles that your organization can use as a transformation blueprint.  
+Next, in [Part II](../introduction.md), we’ll explore the six principles that your organization can use as a transformation blueprint.  
   
 
 

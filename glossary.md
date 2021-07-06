@@ -4,5 +4,9 @@
 
 **Customer value:** One way to think of customer value is that when your product or service leads to a customer feeling more empowered, less stressed or more capable, then you’ve created customer value.
 
+**Business value:** some text here
+
+**Thin-slice:** some text here
+
 **Value stream:** An extended value stream includes those activities that precede a customer order \(e.g., responding to a request for a quote, determining market needs, developing new products, etc.\) or occur following the delivery of a good or service to a customer \(e.g., billing and processing payments or submitting required compliance reports\).
 
