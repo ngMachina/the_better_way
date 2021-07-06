@@ -6,7 +6,9 @@ At Rangle, we call this principle CVA. It’s the first, and perhaps most import
 
 As management guru Peter Drucker wrote back in 1954, “The purpose of a business is to create a customer”.
 
-Many of the world’s leading companies by market capitalization also believe that value for customers is the number one priority. At Amazon, customer obsession is the name of the game. Jeff Bezos once wrote, _“We have an unshakeable conviction that the long-term interests of shareowners are perfectly aligned with the interests of customers.”_
+Many of the world’s leading companies by market capitalization also believe that value for customers is the number one priority. At Amazon, customer obsession is the name of the game. Jeff Bezos once wrote:
+
+> _“We have an unshakeable conviction that the long-term interests of shareowners are perfectly aligned with the interests of customers.”_
 
 That quote originated from an annual shareholder letter that Bezos wrote in 2010, at a time when Amazon’s stock price was approximately $185 dollars. As it turns out, Bezos just might have been on to something… Ten years later, Amazon’s stock would hit an all-time high of $3541.45, representing an increase of approximately 1800%.
 
