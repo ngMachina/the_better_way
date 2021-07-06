@@ -18,9 +18,9 @@ What’s important is that the business strategy ladders up to the executive vis
 _Note: in this context, “customer” encapsulates both external and internal users of any product, service, platform or system used by clients, employees, partners and vendors_
 {% endhint %}
 
-Finally, in the portfolio function, the business strategy is distilled even further into time-based, incrementally-funded, hypothesis-driven customer outcomes known as “bets”, which are continually re-prioritized based on [business value](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#).
+Finally, in the portfolio function, the business strategy is distilled even further into time-based, incrementally-funded, hypothesis-driven customer outcomes known as “[bets](../glossary.md)”, which are continually re-prioritized based on [business value](../glossary.md).
 
-On the execution side, the product function or team pairs with the delivery function/team to transform portfolio “bets” into discrete portions of ‘[thin-sliced](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#)’ work that can be delivered iteratively and evaluated by measures of success that align with the broader executive vision and business strategy.
+On the execution side, the product function or team pairs with the delivery function/team to transform portfolio “[bets](../glossary.md)” into discrete portions of ‘[thin-sliced](../glossary.md)’ work that can be delivered iteratively and evaluated by measures of success that align with the broader executive vision and business strategy.
 
 Lastly, within the measurement function, there is a continual focus on learning to measure customer outcomes using actionable leading indicators to create strategic insights that guide investment decisions.
 

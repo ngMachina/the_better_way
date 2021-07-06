@@ -6,6 +6,8 @@
 
 **Business value:** some text here
 
+**Bet:** some text here
+
 **Thin-slice:** some text here
 
 **Value stream:** An extended value stream includes those activities that precede a customer order \(e.g., responding to a request for a quote, determining market needs, developing new products, etc.\) or occur following the delivery of a good or service to a customer \(e.g., billing and processing payments or submitting required compliance reports\).
