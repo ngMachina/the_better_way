@@ -57,5 +57,9 @@
   * [What good looks like](untitled-1/what-good-looks-like.md)
   * [Common failure modes](untitled-1/common-failure-modes.md)
   * [Final thoughts](untitled-1/principle-five-integrate-lightweight-grc-with-product-teams-early-and-often.md)
-* [Final thoughts](principle-six-measure-what-matters.md)
+* [Principle six: Measure what matters](principle-six-measure-what-matters-1/README.md)
+  * [Applying the principle in practice](principle-six-measure-what-matters-1/applying-the-principle-in-practice.md)
+  * [What good looks like](principle-six-measure-what-matters-1/what-good-looks-like.md)
+  * [Common failure modes](principle-six-measure-what-matters-1/common-failure-modes.md)
+  * [Final thoughts](principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
 
