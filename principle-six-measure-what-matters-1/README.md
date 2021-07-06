@@ -16,9 +16,7 @@ Similarly, from a digital transformation perspective, transformation success sho
 
 Ultimately, learning to measure what matters is about a mindset shift to focusing on approaching business objectives differently. This shift has been captured beautifully by the author and consultant Henrik Kniberg in the illustration shown in Figure J below.
 
-![](../.gitbook/assets/0%20%289%29.png)
-
-Figure J: Example of an outcome based mindset from Henrik Kniberg
+![Figure J: Example of an outcome based mindset from Henrik Kniberg](../.gitbook/assets/0%20%289%29.png)
 
 But this shift can be challenging for many established organizations. Their established lines of business are primarily output- and activity-based, with measures of success that are oriented to maximizing the production, distribution or sale of physical rather than digital products.
 
