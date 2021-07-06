@@ -24,7 +24,7 @@ In order to improve the customer experience using technology in a meaningful way
 
 This process is a useful way to capture the pivotal moments that occur between a consumer and a business at each stage in the customer journey. Completing this exercise will enable you to apply the CVA principle and determine what the customer might be thinking and feeling as they move through the journey. To get a sense of what a customer experience map might look like, we’ve adapted the following customer experience map from [Gus Svendsen](https://medium.com/@svencali).
 
-![Figure G: example of a customer experience map and value stream map](../.gitbook/assets/2%20%281%29.png)
+![Figure G: Example of a customer experience map and value stream map](../.gitbook/assets/2%20%281%29.png)
 
 ### Step 2: Map the operational value stream
 
