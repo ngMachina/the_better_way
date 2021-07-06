@@ -25,7 +25,7 @@ While there is no prescribed way to get an immersive working environment started
 
 Generally, immersive working environments follow a four stage lifecycle as depicted by Figure N below.
 
-![](../.gitbook/assets/0%20%2815%29.png)
+![](../.gitbook/assets/0%20%2817%29.png)
 
 Figure N: Generic life cycle
 

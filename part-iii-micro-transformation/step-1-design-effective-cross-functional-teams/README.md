@@ -8,7 +8,7 @@ But in order to design an effective cross-functional team, you’ll need the rig
 
 To solve for this, Rangle’s micro-transformation model recommends implementing the Double-Triangle Model[\[1\]](), shown in Figure N below.
 
-![](../../.gitbook/assets/0%20%2816%29.png)
+![](../../.gitbook/assets/0%20%2818%29.png)
 
 Figure N: Example of the double-triangle model
 
@@ -18,7 +18,7 @@ In the micro-transformation model, coalitions are partnered with a line of busin
 
 As shown in the figure below, coalitions support pods, which enables them to reach the future state as quickly as possible with the least amount of friction.
 
-![](../../.gitbook/assets/1%20%289%29.png)
+![](../../.gitbook/assets/1%20%2810%29.png)
 
 Figure N: Example of the double-triangle model
 

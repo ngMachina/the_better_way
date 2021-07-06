@@ -12,7 +12,7 @@ Your hypotheses are just educated guesses at this point, so the next step is to 
 
 To get a sense of what that process might look like, we’ve adapted the following diagram from Teresa Torres to show how this works in practice.
 
-![](../.gitbook/assets/0%20%2813%29.png)
+![](../.gitbook/assets/0%20%2815%29.png)
 
 Figure N: Using a series of experiments to discover the best outcome
 

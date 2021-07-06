@@ -86,4 +86,8 @@
     * [Step four: experiment toward the next target condition](step-three-implement-the-starter-kata/how-it-works/step-four-experiment-toward-the-next-target-condition.md)
   * [Why it works](step-three-implement-the-starter-kata/why-it-works.md)
   * [Final thoughts](step-three-implement-the-starter-kata/final-thoughts.md)
+* [Step four: Thin-slice the work](step-four-thin-slice-the-work/README.md)
+  * [How it works](step-four-thin-slice-the-work/how-it-works.md)
+  * [Why it works](step-four-thin-slice-the-work/why-it-works.md)
+  * [Final thoughts](step-four-thin-slice-the-work/final-thoughts.md)
 
