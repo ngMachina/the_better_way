@@ -33,7 +33,6 @@
   * [Applying the principle in practice](principle-three-choose-product-teams-over-project-teams/applying-the-principle-in-practice.md)
   * [What good looks like](principle-three-choose-product-teams-over-project-teams/what-good-looks-like.md)
   * [Common failure modes](principle-three-choose-product-teams-over-project-teams/common-failure-modes.md)
-  * [Pragmatic insight](principle-three-choose-product-teams-over-project-teams/pragmatic-insight.md)
   * [Final thoughts](principle-three-choose-product-teams-over-project-teams/final-thoughts.md)
 * [Principle four: Divide and conquer](principle-four-divide-and-conquer-1/README.md)
   * [Applying the principle in practice](principle-four-divide-and-conquer-1/applying-the-principle-in-practice.md)

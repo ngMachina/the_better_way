@@ -10,11 +10,13 @@ The next step is to rethink the organizational structure in ways that reduce hie
 
 One of the most effective ways to do this at the organizational level is by merging the IT and Product functions. This enables the technology and product domains to join forces to meet common goals \(i.e. using technology and product to create competitive advantage and improve customer outcomes\). Not only will this create alignment and focus on customers and shared outcomes, it will effectively reduce hierarchy, silos and bureaucracy.
 
-_Note: We want to again reiterate that in this context, “customer” could mean external or internal users of a product that provides value._
+{% hint style="warning" %}
+Note: We want to again reiterate that in this context, “customer” could mean external or internal users of a product that provides value.
+{% endhint %}
 
 Once the groups are merged, our suggestion is to consider deploying 90% of the newly formed organization on three key strategic fronts:
 
-![](../.gitbook/assets/0%20%286%29.png)
+![Table III: Three key starting strategies for the merged IT and Product functions](../.gitbook/assets/0%20%286%29.png)
 
 The remaining 10% should be left unused, to ensure there is enough slack in the system to handle emergent needs and avoid the pitfalls that come with over-utilization, which counter-intuitively tends to decrease efficiency rather than increase it.
 

@@ -46,11 +46,9 @@ DevOps, which is a portmanteau for development and operations, is an extension o
 
 At the heart of the DevOps philosophy is the notion that organizations no longer need to choose between speed and stability. It is possible to achieve both by implementing good IT practices guided by the five core ideals outlined by Gene Kim in his 2019 book, _The Unicorn Project_:[\[2\]]()
 
-![](../.gitbook/assets/3%20%283%29.png)
+![Table II: The Five Ideals of DevOps](../.gitbook/assets/3%20%283%29.png)
 
-Table N: The Five Ideals of DevOps
-
-## Competency 3: Talent management
+### Competency 3: Talent management
 
 To avoid attrition and retain consistent levels of performance, talent management is critically important for organizations running a technology-backed business strategy. Developing the careers of your engineers by offering a variety of paths for both junior and senior engineers, including a management track and a specialist track, is vitally important in creating an environment that fosters upskilling as part of daily work and helps engineers feel as though they are moving to the next level.
 
