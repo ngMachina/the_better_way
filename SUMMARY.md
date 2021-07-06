@@ -64,3 +64,7 @@
   * [Final thoughts](principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
 * [Summary](summary.md)
 
+## Part III - Micro-transformation
+
+* [Introduction](part-iii-micro-transformation/introduction.md)
+
