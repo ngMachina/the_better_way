@@ -14,9 +14,11 @@ For example, when using an outcome-based approach the goal shouldn’t be to del
 
 Similarly, from a digital transformation perspective, transformation success shouldn’t be measured by how many teams received training or how many groups have adopted new processes or tools, because again, these are just outputs. Instead, success should be measured by incremental outcomes such as improved time-to-market or increased customer retention that drives broader business goals, such as increased revenue or new customers.
 
-Ultimately, learning to measure what matters is about a mindset shift to focusing on approaching business objectives differently. This shift has been captured beautifully by the author and consultant Henrik Kniberg in the illustration shown in Figure J below.
+Ultimately, learning to measure what matters is about a mindset shift to focusing on approaching business objectives differently. This shift has been captured beautifully by the author and consultant Henrik Kniberg in the illustration shown in Figure N below.
 
-![Figure J: Example of an outcome based mindset from Henrik Kniberg](../.gitbook/assets/0%20%289%29.png)
+![](../.gitbook/assets/0%20%289%29.png)
+
+Figure N: Example of an outcome based mindset from Henrik Kniberg
 
 But this shift can be challenging for many established organizations. Their established lines of business are primarily output- and activity-based, with measures of success that are oriented to maximizing the production, distribution or sale of physical rather than digital products.
 

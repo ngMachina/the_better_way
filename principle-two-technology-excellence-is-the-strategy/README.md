@@ -4,14 +4,14 @@ In his influential 2001 book, _Winning with Software,_ Watts Humphrey made a rat
 
 It has also never been more imperative.
 
-As tech giants like Amazon, Apple and Google continue to disrupt traditional business domains like shipping, healthcare and financial services, and as emergent technologies like decentralized finance and AI cross the chasm toward widespread adoption, it has become increasingly important for established enterprises to catch the next big wave and reimagine themselves as technology companies. To do this, established organizations must first redefine the role of enterprise IT, and broaden its scope to include technology excellence as the key component of their digital first business strategy.
+As tech giants like Amazon, Apple and Google continue to disrupt traditional business domains like shipping, healthcare and financial services, and as emergent technologies like decentralized finance and AI cross the chasm toward widespread adoption, it has become increasingly important for established enterprises to catch the next big wave and re-imagine themselves as technology companies. To do this, established organizations must first redefine the role of enterprise IT, and broaden its scope to include technology excellence as the key component of their digital first business strategy.
 
-Making this shift can be a challenge because unlike many of their born-digital competitors, most established enterprise IT groups carry a significant amount of baggage. This baggage often takes the form of tangled and complex enterprise architectures and outdated legacy systems, as well as an over-reliance on outsourcing key IT capabilities. Taken together, these challenges can make it incredibly difficult for an established organization to move at the speed and scale that digital requires.
+Making this shift can be a challenge because unlike many of their born-digital competitors, most established enterprise IT groups carry a significant amount of baggage. This baggage often takes the form of tangled and complex enterprise architectures and outdated [legacy systems](../glossary.md), as well as an over-reliance on outsourcing key IT capabilities. Taken together, these challenges can make it incredibly difficult for an established organization to move at the speed and scale that digital requires.
 
 In order to make the shift, IT groups must focus on three core competencies:
 
-* The first competency is your platform: Strategic decision making on how to best use existing and emergent technologies to enable CVA.
-* The second competency is your process: Tactical focus on reducing friction and increasing flow, using Continuous Deployment and DevOps to improve value, speed and quality.
+* The first competency is your platform: Strategic decision making on how to best use existing and emergent technologies to enable [CVA](../principle-one-focus-on-customer-value-and-adaptability/).
+* The second competency is your process: Tactical focus on reducing friction and increasing flow, using [Continuous Deployment](../glossary.md) and [DevOps](../glossary.md) to improve value, speed and quality.
 * The third competency is people: Continuous talent development as an essential component of a digital-first company.
 
 {% hint style="success" %}
