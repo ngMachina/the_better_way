@@ -33,9 +33,9 @@ Despite the obvious benefits, making the shift to CVA can be difficult for organ
 The good news is that organizations don’t have to choose a side. They simply need to prioritize the measures differently. This means taking a leap of faith that amplifying customer value will ultimately amplify business value. In other words, CVA plays the leading role, while ROI plays the supporting role, acting as ballast to ensure each initiative in the organization's portfolio is financially sustainable.
 
 {% hint style="success" %}
-Pragmatic insight:
+_**Pragmatic insight:**_
 
-CVA is a measured outcome that only works if an organization’s operating model and culture is based on customer-centric teams. Otherwise, organizational permission and friction tend to make CVA ‘someone else's’ responsibility. We use ‘culture’ here instead of environment, because it emerges from permission, capabilities, ambition, and shared goals and responsibilities. The word ‘environment’ doesn’t seem to do this justice. Refusing to compromise on CVA requires significant enablement and changes to how you work \(the essence of why transformation is needed\) and this can’t be found in just any design thinking or strategy process. Goals without change are wishful thinking intended to avoid the hard work of creating customer-obsessed teams that are enabled to create customer value.
+_CVA is a measured outcome that only works if an organization’s operating model and culture is based on customer-centric teams. Otherwise, organizational permission and friction tend to make CVA ‘someone else's’ responsibility. We use ‘culture’ here instead of environment, because it emerges from permission, capabilities, ambition, and shared goals and responsibilities. The word ‘environment’ doesn’t seem to do this justice. Refusing to compromise on CVA requires significant enablement and changes to how you work \(the essence of why transformation is needed\) and this can’t be found in just any design thinking or strategy process. Goals without change are wishful thinking intended to avoid the hard work of creating customer-obsessed teams that are enabled to create customer value._
 {% endhint %}
 
 In summary, the CVA principle enables transforming organizations in three ways:

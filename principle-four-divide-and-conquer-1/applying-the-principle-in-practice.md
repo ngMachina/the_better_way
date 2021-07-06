@@ -31,7 +31,7 @@ There are many different models for prioritization, but one of the easiest to im
 ![Table IV: Example of Weighted Shortest Job First](../.gitbook/assets/1%20%282%29.png)
 
 {% hint style="warning" %}
-_Note: To learn more about value based prioritization models like WSJF and others, visit the Value-Based Prioritization section in the appendix._
+_**Note**: To learn more about value based prioritization models like WSJF and others, visit the Value-Based Prioritization section in the appendix._
 {% endhint %}
 
 ## Rapid Execution in Practice:
