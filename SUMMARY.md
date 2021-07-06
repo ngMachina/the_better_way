@@ -67,8 +67,15 @@
 ## Part III - Micro-transformation
 
 * [Introduction](part-iii-micro-transformation/introduction.md)
-* [Step 1: Design effective cross-functional teams](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/README.md)
+* [Step one: Design effective cross-functional teams](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/README.md)
   * [How it works](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/how-it-works.md)
   * [Why it works](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/why-it-works.md)
   * [Final thoughts](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/final-thoughts.md)
+
+---
+
+* [Step two: create immersive working environments](step-two-create-immersive-working-environments/README.md)
+  * [How it works](step-two-create-immersive-working-environments/how-it-works.md)
+  * [Why it works](step-two-create-immersive-working-environments/why-it-works.md)
+  * [Final thoughts](step-two-create-immersive-working-environments/final-thoughts.md)
 
