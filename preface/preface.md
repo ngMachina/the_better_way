@@ -16,11 +16,11 @@ These are reasonable questions to ask, but they are the wrong questions. Answeri
 
 To make this happen, there are really only three key questions that must be answered. These are the principles upon which this book is organized.
 
-The first question is the why: Why do we need to change? With some effort, this question isn’t that hard to answer and Part I of this book aims to lock on that.
+The first question is the why: Why do we need to change? With some effort, this question isn’t that hard to answer and [Part I](../why-digital-transformation-is-important/introduction.md) of this book aims to lock on that.
 
-The second question is: What does the future state look like? In other words, “How will our organization function in a way that is fundamentally different than it is today?” Answering this question may take a little more work. Fortunately, in Part II, we’ve included six principles that your organization can use to develop your own future state blueprint.
+The second question is: What does the future state look like? In other words, “How will our organization function in a way that is fundamentally different than it is today?” Answering this question may take a little more work. Fortunately, in [Part II](../introduction.md), we’ve included six principles that your organization can use to develop your own future state blueprint.
 
-It helps to approach the question from the right altitude. It’s got to be high enough that you can recognize where the game-changing business opportunities lie, and how you might accomplish them \(the ‘big picture’ from Part I\), but also low enough to identify truly transformative opportunities that deliver value in months, not years \(the principles described in Part II and the pragmatic path described in Part III\).
+It helps to approach the question from the right altitude. It’s got to be high enough that you can recognize where the game-changing business opportunities lie, and how you might accomplish them \(the ‘big picture’ from [Part I](../why-digital-transformation-is-important/introduction.md)\), but also low enough to identify truly transformative opportunities that deliver value in months, not years \(the principles described in [Part II](../introduction.md) and the pragmatic path described in [Part III](../part-iii-micro-transformation/introduction.md)\).
 
 Here, we’ve attempted to help you find that altitude and uncover those opportunities by distilling our real-world experience overcoming many of the challenges your organization is likely to encounter along the way.
 
@@ -30,9 +30,9 @@ For that reason, we prefer to guide with principles. Principles are neither dogm
 
 As a word of warning, you will almost surely find many people within your organization who agree with these principles, however you may be somewhat surprised at how weak their overall commitment to them can be. To this we can only say: Keep trying and stay committed.
 
-Finally, we address the third question: How? Part III is about rapidly applying the principles in your organization in a 6-18 month timeframe. To help make the principles real, we’ve included tools to help you apply the principles in practice, get a sense of what good looks like, and watch out for common failure modes.
+Finally, we address the third question: How? [Part III](../part-iii-micro-transformation/introduction.md) is about rapidly applying the principles in your organization in a 6-18 month timeframe. To help make the principles real, we’ve included tools to help you apply the principles in practice, get a sense of what good looks like, and watch out for common failure modes.
 
-At Rangle, our entire mission is delivering digital-first outcomes with co-created teams. While Part I and Part II provide the broader thinking needed to create alignment on the overall vision and principles, Part III is based on our experience transformation organizations.
+At Rangle, our entire mission is delivering digital-first outcomes with co-created teams. While [Part I](../why-digital-transformation-is-important/introduction.md) and [Part II](../introduction.md) provide the broader thinking needed to create alignment on the overall vision and principles, [Part III](../part-iii-micro-transformation/introduction.md) is based on our experience transformation organizations.
 
 No matter where you are on your transformation journey, we hope this eBook provides meaningful insight, utility and a sense of direction when times get tough.
 

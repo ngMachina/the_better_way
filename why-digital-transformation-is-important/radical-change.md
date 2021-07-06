@@ -18,7 +18,7 @@ Today, there are literally thousands of well-funded and creative new business mo
 
 So far, it seems that no industry is immune. At the heart of business model innovation is a technique known as “decoupling”, which breaks apart what Harvard professor Thales A. Teixeira refers to as “the customer value chain”.
 
-In his 2019 book, _Unlocking the Customer Value Chain_, Teixeira describes how upstarts disrupt established players by eliminating as many non-value added activities from the customer experience as possible. To better illustrate how decoupling works, we’ve included additional examples from Teixeira’s earlier work in Figure N below.
+In his 2019 book, _Unlocking the Customer Value Chain_, Teixeira describes how upstarts disrupt established players by eliminating as many non-value added activities from the customer experience as possible. To better illustrate how decoupling works, we’ve included additional examples from Teixeira’s earlier work in Figure A below.
 
 ![Figure A: Examples of decoupled activities and their disruptors](../.gitbook/assets/0%20%288%29.png)
 
