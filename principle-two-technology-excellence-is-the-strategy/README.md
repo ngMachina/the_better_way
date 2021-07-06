@@ -14,3 +14,9 @@ In order to make the shift, IT groups must focus on three core competencies:
 * The second competency is your process: Tactical focus on reducing friction and increasing flow, using Continuous Deployment and DevOps to improve value, speed and quality.
 * The third competency is people: Continuous talent development as an essential component of a digital-first company.
 
+{% hint style="success" %}
+Pragmatic Insight: 
+
+Technology excellence is the foundation of your organization’s ability to create high-value digital experiences for the future of your business, faced with unknown requirements, markets and costs. People will quit a poor process or a poor platform. Your ability as an organization to continuously obsess about creating good platforms and processes will enable your people to develop much faster, and in turn focus on and learn about your customers and markets. This feedback loop allows the right decisions to be made, ensuring you are building the right process for the right products.
+{% endhint %}
+
