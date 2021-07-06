@@ -37,10 +37,10 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: The Better Way Epub
-          path: .gitbook/the_better_way.epub
+          path: ./the_better_way.epub
 
       - name: Save Mobi Artifact
         uses: actions/upload-artifact@v2
         with:
           name: The Better Way Mobi
-          path: .gitbook/the_better_way.mobi
+          path: ./the_better_way.mobi
