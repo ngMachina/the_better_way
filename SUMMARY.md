@@ -2,10 +2,6 @@
 
 * [The Better Way: Transformation principles for the real world](README.md)
 
-## Endnotes
-
-* [Endnotes](endnotes/endnotes.md)
-
 ## Preface
 
 * [Preface](preface/preface.md)
@@ -86,4 +82,10 @@
 * [Summary](summary-1.md)
 * [Conclusion](untitled.md)
 * [Glossary](glossary.md)
+
+## Endnotes
+
+---
+
+* [Endnotes](endnotes-1.md)
 
