@@ -19,5 +19,3 @@ As shown above, the Improvement Kata and the Coaching Kata are used together to 
 Sidebar: The Starter Kata uses two key roles, known as “learners” and “coaches”. You can learn more about these roles in the [Appendix](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#).
 {% endhint %}
 
-
-
