@@ -1,6 +1,6 @@
 # Introduction
 
-_Change only happens when “creative tension” is created. Creative tension comes from seeing clearly where we want to be, our “vision,” and telling the truth about where we are now, our “current reality.” — Peter Senge_
+> _Change only happens when “creative tension” is created. Creative tension comes from seeing clearly where we want to be, our “vision,” and telling the truth about where we are now, our “current reality.” — Peter Senge_
 
 Now that we’ve identified the key drivers and challenges, the next step is to define a set of principles to guide \(but not dictate\) the transformation of your business strategy and operating model. As your organization is one-of-a-kind, guiding, rather than dictating, is essential. Your path to transformation is unique, but these principles are not. Transformation is problem solving through creating organizational friction, which means a loss of capability and comfort. Your goal is to do this in a way that’s best for your people and circumstances.
 
