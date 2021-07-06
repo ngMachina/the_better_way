@@ -10,11 +10,9 @@ Finally, from an innovation perspective, it’s vital for visionaries and though
 
 Note that these competencies are distinctly different, and success in one area of the business is unlikely to predict success in another — in fact, it might be the exact opposite. A leader who is excellent at running an existing line of business may not succeed in handling the very different demands of innovation and wayfinding, for example.
 
-Once the right leaders are in place, the next capability is a value-based portfolio, which works backward from the executive vision and strategy to prioritize a portfolio of organizational investments and aligns all levels of the organization to a common purpose. Lean Value Trees are one of the most popular and effective ways to create this alignment. As shown in Figure N below, an LVT is a visualization tool used to articulate how the organizational vision and business strategy will be disseminated into a strategic portfolio of investments.
+Once the right leaders are in place, the next capability is a value-based portfolio, which works backward from the executive vision and strategy to prioritize a portfolio of organizational investments and aligns all levels of the organization to a common purpose. Lean Value Trees are one of the most popular and effective ways to create this alignment. As shown in Figure H below, an LVT is a visualization tool used to articulate how the organizational vision and business strategy will be disseminated into a strategic portfolio of investments.
 
-![](../.gitbook/assets/0%20%285%29.png)
-
-Figure N: Example of an LVT
+![Figure H: Example of an LVT](../.gitbook/assets/0%20%285%29.png)
 
 LVTs use branches to connect the executive vision to the business portfolio using a cascading metaphor that breaks the vision down into increasingly smaller slices of work known as Outcomes, Bets and Hypotheses.
 
@@ -28,13 +26,13 @@ As you might expect, each node in the LVT is defined by specific and often bespo
 
 Finally, the third capability is value-based prioritization, which helps organizations evaluate all of the potential investments they could make using a formal weighting system to determine those opportunities that have the best potential to create value for customers and the organization.
 
-There are many different models for prioritization, but one of the easiest to implement is Weighted Shortest Job First. As shown in Table N below, WSJF can be used to sequence a portfolio of potential initiatives based on their relative cost of delay divided by their relative job size using a simple calculation. Sequencing initiatives using WSJF ensures the best possible return in the shortest amount of time.
+There are many different models for prioritization, but one of the easiest to implement is Weighted Shortest Job First. As shown in Table IV below, WSJF can be used to sequence a portfolio of potential initiatives based on their relative cost of delay divided by their relative job size using a simple calculation. Sequencing initiatives using WSJF ensures the best possible return in the shortest amount of time.
 
-![](../.gitbook/assets/1%20%282%29.png)
+![Table IV: Example of Weighted Shortest Job First](../.gitbook/assets/1%20%282%29.png)
 
-Table N: Example of Weighted Shortest Job First
-
+{% hint style="warning" %}
 _Note: To learn more about value based prioritization models like WSJF and others, visit the Value-Based Prioritization section in the appendix._
+{% endhint %}
 
 ## Rapid Execution in Practice:
 
@@ -42,7 +40,7 @@ Thin-slicing this work is essential. It would be impossible to run this program 
 
 This principle is essentially the reverse of the usual waterfall process. Starting with deciding on the first program to transform, and seeing it through end-to-end, you can then refine and roll out your learnings to subsequent programs. The process can follow this loose program:
 
-1. Competency 2: Adaptive portfolio management. Pick a program where you can apply the principles from end-to-end
-2. Competency 3: Value-based prioritization
-3. Competency 1: Talent Management. Create the right team that can solve your customer challenges at each phase of the product lifecycle.
+1. Competency Two: Adaptive portfolio management. Pick a program where you can apply the principles from end-to-end
+2. Competency Three: Value-based prioritization
+3. Competency One: Talent Management. Create the right team that can solve your customer challenges at each phase of the product lifecycle.
 
