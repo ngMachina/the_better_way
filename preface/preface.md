@@ -4,7 +4,7 @@ _The greatest danger in times of turbulence is not the turbulence; it is to act 
 
 As consumer demand for increasingly sophisticated and personalized digital products continues unabated, many organizations will soon find themselves hitting the digital capability wall.
 
-In fact, recent research suggests that the growing digital capability divide will not only create profound new opportunities for the digital haves, it will create an increasingly high barrier to entry for the have-nots.
+In fact, [recent research](../endnotes-1/endnote-1.md) suggests that the growing digital capability divide will not only create profound new opportunities for the digital haves, it will create an increasingly high barrier to entry for the have-nots.
 
 These are challenges that cannot be solved by simply throwing more money or people at the problem, and there are no silver bullet, off-the-shelf fixes either.
 

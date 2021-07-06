@@ -87,4 +87,5 @@
 
 * [Endnotes](endnotes-1/README.md)
   * [Endnote 1](endnotes-1/endnote-1.md)
+  * [Endnote 2](endnotes-1/endnote-2.md)
 
