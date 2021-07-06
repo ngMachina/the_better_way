@@ -16,12 +16,15 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+
+      - name: install calibre via homebrew
+        run: brew install --cask calibre
       
       - name: npm install
         run: npm install
@@ -30,8 +33,14 @@ jobs:
       - name: Build out the epub file
         run: npm run build-epub
 
-      - name: Save Artifact
+      - name: Save Epub Artifact
         uses: actions/upload-artifact@v2
         with:
           name: The Better Way Epub
           path: .gitbook/the_better_way.epub
+
+      - name: Save Mobi Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: The Better Way Mobi
+          path: .gitbook/the_better_way.mobi
