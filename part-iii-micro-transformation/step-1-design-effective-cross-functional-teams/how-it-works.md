@@ -1,4 +1,4 @@
-# How it works:
+# How it works
 
 ## Phase one: reinvention hypothesis
 
