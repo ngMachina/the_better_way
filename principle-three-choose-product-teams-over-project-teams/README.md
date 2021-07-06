@@ -6,7 +6,7 @@ In the Digital Era, products are the name of the game, which is why it's so incr
 
 The difference between the two could not be more stark. Notable author and consultant Jim Highsmith captured this difference brilliantly when he wrote, “In a complex environment, following a plan produces the product you intended, just not the product you need.”
 
-The reality is that most product ideas fail, at least initially. Success requires rapid and iterative experimentation, and a deep understanding of the customer problem space. This allows you to first find the right [product/solution fit](../glossary.md), then further experimentation will reveal a [product/market](../glossary.md) fit that is both sustainable and generates business value.
+The reality is that most product ideas fail, at least initially. Success requires rapid and iterative experimentation, and a deep understanding of the customer problem space. This allows you to first find the right [product/solution fit](../glossary.md), then further experimentation will reveal a [product/market fit](../glossary.md) that is both sustainable and generates [business value](../glossary.md).
 
 This means product teams start from a list of questions, rather than a list of requirements. The questions are meant to iteratively test their riskiest assumptions through targeted and measurable experiments that use leading indicators to gauge the likelihood of success over time.
 

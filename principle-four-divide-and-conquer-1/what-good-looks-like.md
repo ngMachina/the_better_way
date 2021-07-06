@@ -1,7 +1,7 @@
 # What good looks like
 
 * Defensive, disruptive and innovation have the right talent composition
-* The organizational portfolio can be easily visualized as a Lean Value Tree
+* The organizational portfolio can be easily visualized as a [Lean Value Tree](../glossary.md)
 * The relationship between initiatives in the LVT can be easily understood
 * Outcomes are customer-focused missions to achieve a clear business result
 * Bets are short-term cross-functional initiatives with measures of success designed to “move the needle” on their parent outcomes

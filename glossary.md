@@ -20,11 +20,21 @@
 
 **Incremental:** some text here
 
+Lean value tree:
+
 **Legacy systems:** some text here
+
+MVP:
 
 Net present value:
 
+Principle of optionality:
+
 Process time: xome text here
+
+Product/market fit:
+
+Product/solution fit:
 
 **Shareholder value:** some text here
 
@@ -36,9 +46,11 @@ Total lead time:
 
 **Touchpoint:** some text here
 
-Value -based prioritization:
+Value-based prioritization:
 
 **Value stream:** An extended value stream includes those activities that precede a customer order \(e.g., responding to a request for a quote, determining market needs, developing new products, etc.\) or occur following the delivery of a good or service to a customer \(e.g., billing and processing payments or submitting required compliance reports\).
 
 **Value stream map:** some text here
+
+Weighted Shortest Job First:
 
