@@ -85,5 +85,6 @@
 
 ---
 
-* [Endnotes](endnotes-1.md)
+* [Endnotes](endnotes-1/README.md)
+  * [Endnote 1](endnotes-1/endnote-1.md)
 

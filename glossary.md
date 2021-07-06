@@ -4,7 +4,11 @@
 
 **Bet:** some text here
 
+Compliance:
+
 **Continuous Deployment:** Some text here
+
+Cost of delay:
 
 **Customer:** For the purpose of this eBook, “[customer](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#)” can mean either an internal facing stakeholder, or an external [customer](https://docs.google.com/document/d/1Bd9xRQQZfc-b9eTFUaAZQ7_KB7fiwk4MjWd5cErio_U/edit#) to which you provide products or services. In most cases, we are referring to the latter, and will note when the case is otherwise.
 
@@ -17,6 +21,10 @@
 **Delay time:** some text here
 
 **DevOps:** some text here
+
+Governance:
+
+GRC:
 
 **Incremental:** some text here
 
