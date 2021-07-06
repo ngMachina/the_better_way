@@ -69,4 +69,5 @@
 * [Introduction](part-iii-micro-transformation/introduction.md)
 * [Step 1: Design effective cross-functional teams](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/README.md)
   * [How it works:](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/how-it-works.md)
+  * [Why it works](part-iii-micro-transformation/step-1-design-effective-cross-functional-teams/why-it-works.md)
 
