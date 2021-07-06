@@ -12,9 +12,9 @@ These decisions are never easy, because oftentimes, they require striking a bala
 
 For instance, your organization has no doubt debated at length whether leadership should be centralized or decentralized, or whether it is better to encourage a bias for planning or a bias for action. Or perhaps it’s deciding whether it’s better to focus on customers or shareholders. These are difficult questions to answer because you can’t win by choosing one side over the other. As a leader, the choices you make are never either/or, they are always both/and.
 
-That’s why, in our experience, it’s better to leave zero sum arguments at the door and use the six principles shown below in Figure N to design “win-win” scenarios that maximize the relative upside, and minimize the relative downside.
+That’s why, in our experience, it’s better to leave zero sum arguments at the door and use the six principles shown below in Figure C to design “win-win” scenarios that maximize the relative upside, and minimize the relative downside.
 
-![Figure N: The Six Core Principles of the Better Way](.gitbook/assets/3%20%281%29.png)
+![Figure C: The Six Core Principles of the Better Way](.gitbook/assets/3%20%281%29.png)
 
 We call these principles _The Better Way_, and here in Part II, we’ll demonstrate how to use them as a guiding policy when making difficult choices that are contrary to the status quo.
 
