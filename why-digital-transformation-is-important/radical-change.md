@@ -20,7 +20,7 @@ What this means is that organizations must do significantly more than simply “
 
 What this means is that organizations must do significantly more than simply “lift and shift” their aging services to the cloud, and implement a few modest user interface enhancements. Instead, companies must continuously improve and modernize the entire customer experience from end-to-end, ensuring that every step in that experience is fast, personalized, and evolvable.
 
-#### Business model innovation
+#### 
 
 ### Business model innovation
 
