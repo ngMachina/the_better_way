@@ -13,9 +13,7 @@
 ## Part I - The Big Picture <a id="why-digital-transformation-is-important"></a>
 
 * [Introduction](why-digital-transformation-is-important/introduction.md)
-* [Radical change](why-digital-transformation-is-important/radical-change/README.md)
-  * [Evolving consumer preferences](why-digital-transformation-is-important/radical-change/evolving-consumer-preferences.md)
-  * [Business model innovation](why-digital-transformation-is-important/radical-change/business-model-innovation.md)
+* [Radical change](why-digital-transformation-is-important/radical-change.md)
 * [Rapid acceleration](why-digital-transformation-is-important/rapid-acceleration/README.md)
   * [Exponential technological progress](why-digital-transformation-is-important/rapid-acceleration/exponential-technological-progress.md)
 * [Profound complexity](why-digital-transformation-is-important/profound-complexity/README.md)
