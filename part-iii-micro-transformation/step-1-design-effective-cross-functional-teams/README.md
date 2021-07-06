@@ -8,7 +8,7 @@ But in order to design an effective cross-functional team, you’ll need the rig
 
 To solve for this, Rangle’s micro-transformation model recommends implementing the Double-Triangle Model[\[1\]](), shown in Figure N below.
 
-![](../../.gitbook/assets/0%20%2814%29.png)
+![](../../.gitbook/assets/0%20%2816%29.png)
 
 Figure N: Example of the double-triangle model
 

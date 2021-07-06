@@ -74,8 +74,16 @@
 
 ---
 
-* [Step two: create immersive working environments](step-two-create-immersive-working-environments/README.md)
+* [Step two: Create immersive working environments](step-two-create-immersive-working-environments/README.md)
   * [How it works](step-two-create-immersive-working-environments/how-it-works.md)
   * [Why it works](step-two-create-immersive-working-environments/why-it-works.md)
   * [Final thoughts](step-two-create-immersive-working-environments/final-thoughts.md)
+* [Step three: Implement the Starter Kata](step-three-implement-the-starter-kata/README.md)
+  * [How it works](step-three-implement-the-starter-kata/how-it-works/README.md)
+    * [Step one: understand the direction](step-three-implement-the-starter-kata/how-it-works/step-one-understand-the-direction.md)
+    * [Step two: grasp the current condition](step-three-implement-the-starter-kata/how-it-works/step-two-grasp-the-current-condition.md)
+    * [Step three: establish the next target condition](step-three-implement-the-starter-kata/how-it-works/step-three-establish-the-next-target-condition.md)
+    * [Step four: experiment toward the next target condition](step-three-implement-the-starter-kata/how-it-works/step-four-experiment-toward-the-next-target-condition.md)
+  * [Why it works](step-three-implement-the-starter-kata/why-it-works.md)
+  * [Final thoughts](step-three-implement-the-starter-kata/final-thoughts.md)
 

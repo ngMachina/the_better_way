@@ -1,4 +1,4 @@
-# Step two: create immersive working environments
+# Step two: Create immersive working environments
 
 In order to amplify the “swarming” effect noted in the previous section, it’s important to provide an immersive working environment that enables coalitions and pods to learn and develop the skills they will need to successfully work in the future state.
 
