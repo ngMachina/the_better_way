@@ -20,11 +20,9 @@ Leading indicators are actionable, and their job is to tell us whether we’re g
 
 Taken together, our leading and lagging indicators should be able to tell us whether we are likely to be successful with enough time and pressure, or whether we should cancel our investment and develop a new series of tests.
 
-To help you get started, we’ve provided Table N below, which demonstrates how we might operationalize this at Rangle.
+To help you get started, we’ve provided Table VI below, which demonstrates how we might operationalize this at Rangle.
 
-![](../.gitbook/assets/1%20%287%29.png)
-
-Table N: Structuring a Business Objective
+![Table VI: Structuring a Business Objective](../.gitbook/assets/1%20%287%29.png)
 
 As you can see, motivating teams to achieve outcomes based on measures of success that correlate to organizational business goals is quite different from directing teams to deliver a set of requirements on time, scope and budget.
 
