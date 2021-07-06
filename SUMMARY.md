@@ -62,4 +62,5 @@
   * [What good looks like](principle-six-measure-what-matters-1/what-good-looks-like.md)
   * [Common failure modes](principle-six-measure-what-matters-1/common-failure-modes.md)
   * [Final thoughts](principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
+* [Summary](summary.md)
 
