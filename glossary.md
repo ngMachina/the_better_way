@@ -32,31 +32,17 @@
 
 **MVP:** minimum viable product - the smallest increment of a new product that can be deployed to test assumptions about problem/solution fit
 
-Net present value: 
+**Net present value:** the difference between what a product or service is currently worth and what it is costing to sustain the product or service.
 
-Principle of optionality:
+**Principle of optionality:** mitigates uncertainty by testing a range of possible solutions without committing to any particular solution
 
-Process time: xome text here
+**Process time:** the duration of time that elapses between when a task enters a process and leave the process
 
-Product/market fit:
+**Product/market fit:** the point at which a product not only solves a problem, but can also scale in terms of sales and adoption.
 
-Product/solution fit:
+**Product/solution fit:** the point at which a nascent product has proven to solve a real customer problem.
 
-**Shareholder value:** some text here
-
-**Thin-slice:** some text here
-
-Total time:
-
-Total lead time:
-
-**Touchpoint:** some text here
-
-Value-based prioritization:
+**Thin-slice:** an initiative that is narrow in scope, but requires deep organizational integration, commitment and participation to succeed.
 
 **Value stream:** An extended value stream includes those activities that precede a customer order \(e.g., responding to a request for a quote, determining market needs, developing new products, etc.\) or occur following the delivery of a good or service to a customer \(e.g., billing and processing payments or submitting required compliance reports\).
-
-**Value stream map:** some text here
-
-Weighted Shortest Job First:
 
