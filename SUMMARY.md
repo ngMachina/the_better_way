@@ -25,7 +25,7 @@
   * [What good looks like](principle-one-focus-on-customer-value-and-adaptability/what-good-looks-like.md)
   * [Common failure modes](principle-one-focus-on-customer-value-and-adaptability/common-failure-modes.md)
   * [Final thoughts](principle-one-focus-on-customer-value-and-adaptability/final-thoughts.md)
-* [Principle two: technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy/README.md)
+* [Principle two: Technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy/README.md)
   * [Applying the principle in practice](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice.md)
   * [What good looks like](principle-two-technology-excellence-is-the-strategy/what-good-looks-like.md)
   * [Common failure modes](principle-two-technology-excellence-is-the-strategy/common-failure-modes.md)

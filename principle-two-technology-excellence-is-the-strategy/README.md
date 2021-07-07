@@ -1,4 +1,4 @@
-# Principle two: technology excellence is the strategy
+# Principle two: Technology excellence is the strategy
 
 In his influential 2001 book, _Winning with Software,_ Watts Humphrey made a rather bold statement: “Every business is a software business”. Fast forward twenty years, and Humphrey’s assertion has never been more prescient.
 
