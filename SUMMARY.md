@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Better Way: Transformation principles for the real world](README.md)
+* [License](license.md)
 
 ## Preface
 
@@ -82,5 +83,4 @@
 ---
 
 * [Endnotes](endnotes-1.md)
-* [License](license.md)
 
