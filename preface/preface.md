@@ -33,7 +33,7 @@ As a word of warning, you will almost surely find many people within your organi
 
 Finally, we address the third question: How? [Part III](../part-iii-micro-transformation/introduction.md) is about rapidly applying the principles in your organization in a 6-18 month timeframe. To help make the principles real, we’ve included tools to help you apply the principles in practice, get a sense of what good looks like, and watch out for common failure modes.
 
-At Rangle, our entire mission is delivering digital-first outcomes with co-created teams. While [Part I](../why-digital-transformation-is-important/introduction.md) and [Part II](../introduction.md) provide the broader thinking needed to create alignment on the overall vision and principles, [Part III](../part-iii-micro-transformation/introduction.md) is based on our experience transformation organizations.
+At Rangle, our entire mission is delivering digital-first outcomes with co-created teams. While [Part I](../why-digital-transformation-is-important/introduction.md) and [Part II](../introduction.md) provide the broader thinking needed to create alignment on the overall vision and principles, [Part III](../part-iii-micro-transformation/introduction.md) is based on our experience transforming organizations.
 
 No matter where you are on your transformation journey, we hope this eBook provides meaningful insight, utility and a sense of direction when times get tough.
 
