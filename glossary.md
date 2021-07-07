@@ -2,9 +2,9 @@
 
 **Business value:** some text here
 
-**Bet:** some text here
+**Bet:** A relatively small, hypothesis-driven initiative that may serve to create value toward a larger organizational goal 
 
-Compliance:
+**Compliance:** is obedience to laws, industry regulations, legally binding contracts, and even cultural norms.
 
 **Continuous Deployment:** Some text here
 
