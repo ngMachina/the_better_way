@@ -8,18 +8,11 @@ But in order to design an effective cross-functional team, you’ll need the rig
 
 To solve for this, Rangle’s micro-transformation model recommends implementing the Double-Triangle Model[\[1\]](), shown in Figure L below.
 
-![](../../.gitbook/assets/0%20%2818%29.png)
-
-Figure L: Example of the double-triangle model
-
 In the double triangle model, change expertise is paired with functional expertise to create a “team of teams” configuration that we call “coalitions”. Change expertise provides the capability to identify, explore and test new ways of working, while functional expertise provides the capability to contextualize existing functions, processes and policies, and provide guidance as to how they might be adapted to achieve the future state.
 
 In the micro-transformation model, coalitions are partnered with a line of business to incrementally transition product and program teams known as “pods” to the transformed future state.
 
 As shown in the figure below, coalitions support pods, which enables them to reach the future state as quickly as possible with the least amount of friction.
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![Figure M: Coalitions support Pods](../../.gitbook/assets/1%20%2810%29.png)
 
-Figure M: Example of the double-triangle model
-
-1. 
