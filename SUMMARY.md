@@ -82,4 +82,5 @@
 ---
 
 * [Endnotes](endnotes-1.md)
+* [License](license.md)
 
