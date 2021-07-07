@@ -2,7 +2,7 @@
 
 ### Competency 1: Platforms Not Software
 
-Applying principle two in practice means starting with the first competency, which considers how your organization might apply [Principles One](../principle-one-focus-on-customer-value-and-adaptability/) and [Two](./) end-to-end, to improve high-value [touchpoints](../glossary.md) in your [customer experience](../glossary.md). This is the intersection of strategy and technology combined into a platform that can evolve and scale to your digital ambitions.
+Applying principle two in practice means starting with the first competency, which considers how your organization might apply [Principles One](../principle-one-focus-on-customer-value-and-adaptability/) and [Two](./) end-to-end, to improve high-value touchpoints in your [customer experience](../glossary.md). This is the intersection of strategy and technology combined into a platform that can evolve and scale to your digital ambitions.
 
 As shown in Figure E below, meeting the two involves evaluating the customer experience and the activities that make up that experience from end to end, starting from the digital experience. This is comprised of devices, interfaces and user experience, and how they inter-operate with consumer touchpoints \(such as customer service and technical support\), followed by the back office operations that support that experience.
 
@@ -28,9 +28,9 @@ This process is a useful way to capture the pivotal moments that occur between a
 
 ### Step 2: Map the operational value stream
 
-After mapping the customer experience, the next step is to identify improvement opportunities using operational [value stream maps](../glossary.md). These are used to document the steps, handoffs and delays that occur on the operational side of the customer experience. As shown in Figure G above, each step is measured in [processing time](../glossary.md) and [delay time](../glossary.md) with the [total time](../glossary.md) represented by the “[total lead time](../glossary.md)” metric.
+After mapping the customer experience, the next step is to identify improvement opportunities using operational [value stream maps](../glossary.md). These are used to document the steps, handoffs and delays that occur on the operational side of the customer experience. As shown in Figure G above, each step is measured in processing time and delay time with the total time represented by the “total lead time” metric.
 
-Working through this process is a good way to shed light on where the longest wait times and processing times exist which in turn, will open up discussions around how to apply technology to potentially reduce those times. VSMs are useful because they help organizations improve the customer experience by measuring the “[process time](../glossary.md)” needed to complete individual activities in the customer experience as well as measure the “lead time” needed to complete the entire flow end to end.
+Working through this process is a good way to shed light on where the longest wait times and processing times exist which in turn, will open up discussions around how to apply technology to potentially reduce those times. VSMs are useful because they help organizations improve the customer experience by measuring the “process time” needed to complete individual activities in the customer experience as well as measure the “lead time” needed to complete the entire flow end to end.
 
 These measurements provide rich opportunities for organizations to improve the customer experience by combining strategy, product and user experience capabilities with engineering and data capabilities.
 

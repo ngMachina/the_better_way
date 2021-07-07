@@ -12,7 +12,7 @@ On the leadership side, this means integrating CVA into the executive vision so 
 
 Next, use the business strategy to further elaborate on the vision and articulate how the organization intends to move forward by leveraging its unique sources of power and finite resources and energy to deliver on the vision. By way of example, one organization may decide that their best course of action is to defend their current lines of business while another may choose to disrupt an existing market.
 
-What’s important is that the business strategy ladders up to the executive vision and is centered on creating value for customers[\*](), as well as building adaptive capabilities which have potential to mutually benefit customers and the business.
+What’s important is that the business strategy ladders up to the executive vision and is centered on creating value for customers, as well as building adaptive capabilities which have potential to mutually benefit customers and the business.
 
 {% hint style="warning" %}
 _Note: in this context, “customer” encapsulates both external and internal users of any product, service, platform or system used by clients, employees, partners and vendors_

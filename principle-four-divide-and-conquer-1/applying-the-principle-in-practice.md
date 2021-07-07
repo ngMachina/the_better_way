@@ -26,7 +26,7 @@ As you might expect, each node in the [LVT](../glossary.md) is defined by specif
 
 Finally, the third capability is value-based prioritization, which helps organizations evaluate all of the potential investments they could make using a formal weighting system to determine those opportunities that have the best potential to create value for customers and the organization.
 
-There are many different models for prioritization, but one of the easiest to implement is [Weighted Shortest Job First](../glossary.md). As shown in Table IV below, WSJF can be used to sequence a portfolio of potential initiatives based on their relative cost of delay divided by their relative job size using a simple calculation. Sequencing initiatives using WSJF ensures the best possible return in the shortest amount of time.
+There are many different models for prioritization, but one of the easiest to implement is Weighted Shortest Job First. As shown in Table IV below, WSJF can be used to sequence a portfolio of potential initiatives based on their relative cost of delay divided by their relative job size using a simple calculation. Sequencing initiatives using WSJF ensures the best possible return in the shortest amount of time.
 
 ![Table IV: Example of Weighted Shortest Job First](../.gitbook/assets/1%20%282%29.png)
 

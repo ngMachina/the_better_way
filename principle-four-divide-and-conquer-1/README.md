@@ -14,5 +14,5 @@ The first is talent management, which recognizes that innovation, disruption, re
 
 The second competency is adaptive portfolio management, which is used to distill the executive vision and business strategy into a visual portfolio of initiatives that clearly articulates priority, the key measures of success, and how capital and talent will be allocated.
 
-The third competency is [value-based prioritization](../glossary.md), which seeks to continuously assess and re-prioritize initiatives based on their relative value. This is an important capability in an uncertain and continually changing business environment.
+The third competency is value-based prioritization, which seeks to continuously assess and re-prioritize initiatives based on their relative value. This is an important capability in an uncertain and continually changing business environment.
 
