@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ngMachina/the_better_way#readme",
   "dependencies": {
     "ebook-convert": "^2.0.1",
+    "gitbook-plugin-hints": "^1.0.2",
     "graceful-fs": "^4.2.6",
     "honkit": "^3.6.20",
     "malta": "^4.1.28",

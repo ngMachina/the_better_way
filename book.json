@@ -1,22 +1,3 @@
 {
-  "plugins": ["page-footer"],
-  "plugins-config": {
-    "page-footer": {
-      "description": "modified at",
-      "signature": "",
-      "wisdom": "",
-      "format": "yyyy-MM-dd hh:mm:ss",
-      "copyright": "Copyright &#169;",
-      "timeColor": "#666",
-      "copyrightColor": "#666",
-      "utcOffset": "5",
-      "isShowQRCode": false,
-      "baseUri": "",
-      "isShowIssues": false,
-      "repo": "",
-      "issueNum": "",
-      "token": "",
-      "style": "normal"
-    }
-  }
+  "plugins": ["hints"]
 }
