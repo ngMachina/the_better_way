@@ -1,8 +1,8 @@
 # Preface
 
-_The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic._   
-— Peter F. Drucker, _Managing in Turbulent Times_
+> _The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic._ — Peter F. Drucker, _Managing in Turbulent Times_
 
+  
 As consumer demand for increasingly sophisticated and personalized digital products continues unabated, many organizations will soon find themselves hitting the digital capability wall.
 
 In fact, recent research [\[1\]](../endnotes/endnotes-1.md) suggests that the growing digital capability divide will not only create profound new opportunities for the digital haves, it will create an increasingly high barrier to entry for the have-nots.
