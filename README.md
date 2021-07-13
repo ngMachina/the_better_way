@@ -2,7 +2,7 @@
 
 ##  
 
-![](.gitbook/assets/ebook_cover-1-.png)
+![](.gitbook/assets/gitbook_tbw_cover-2x.png)
 
 
 
