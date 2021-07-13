@@ -1,0 +1,4 @@
+# Final thoughts
+
+How success is measured may be one of the most entrenched thought patterns in your business. You know already that in the process of your digital transformation, your company will encounter much culture-based resistance to transformation efforts. It’s easy to think that this resistance will always come from “the workforce”. The reality is that the leadership team is as likely to put up a fight — and even more likely when the measures of success are not simple, deterministic measures of activity. Combatting this culture issue will require a focus on winning attitudes, an agreement on what is best for the future of the organization and the products you create, and an overall commitment to doing the digital transformation in the right way — which means committing to all pieces, not just the ones that are easy.
+

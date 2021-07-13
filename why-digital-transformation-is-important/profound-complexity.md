@@ -2,7 +2,7 @@
 
 ### **Organizational structures**
 
-Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, _The Connected Company_ [\[6}](../endnotes-1.md). 
+Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, _The Connected Company_ [\[6}](../endnotes/endnotes-1.md). 
 
 In a divided hierarchy, work is essentially divided up and distributed into zones, with each zone performing highly specific, repeatable and well-defined tasks that are delegated top-down in a command and control style.  
 ****
@@ -23,7 +23,7 @@ In our consulting experience, rigid and hierarchical organizational structures t
 
 In adaptive environments, ambiguity is often high, and employees need to feel safe to ask questions, experiment and apply divergent thinking in order to discover the right solutions for the challenge at hand.
 
-In his 2014 paper entitled, _A typology of organisational cultures_ [\[7\]](../endnotes-1.md), sociologist and professor Ron Westrum studied organizational culture in complex and risky environments and developed a typology he calls The Three Cultures Model. In it, Westrum’s findings indicated that organizations are largely either pathological, bureaucratic or generative based on the following traits.
+In his 2014 paper entitled, _A typology of organisational cultures_ [\[7\]](../endnotes/endnotes-1.md), sociologist and professor Ron Westrum studied organizational culture in complex and risky environments and developed a typology he calls The Three Cultures Model. In it, Westrum’s findings indicated that organizations are largely either pathological, bureaucratic or generative based on the following traits.
 
 ![Table I: Westrum&apos;s Typology of Organizational Culture](https://lh5.googleusercontent.com/vM4x5bfWC38Hh5RZ6W4c5Ptxxr-L2XK54Iot_le8AFvnCEqaLsAISeMlmhlZrUJE47dRx04wYlEPVp2zan3vDxUIVBCUGb3ddpCDRBVcMa7WAJ1eheFmkR5g59KRPRJJcFmX2hpK)
 

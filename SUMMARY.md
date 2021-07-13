@@ -17,40 +17,38 @@
 
 ## Part II - The better way <a id="six-principles-of-digital-transformation"></a>
 
----
-
-* [Introduction](introduction.md)
-* [Principle one: Focus on customer value and adaptability](principle-one-focus-on-customer-value-and-adaptability/README.md)
-  * [Applying the principle in practice](principle-one-focus-on-customer-value-and-adaptability/applying-the-principle-in-practice.md)
-  * [What good looks like](principle-one-focus-on-customer-value-and-adaptability/what-good-looks-like.md)
-  * [Common failure modes](principle-one-focus-on-customer-value-and-adaptability/common-failure-modes.md)
-  * [Final thoughts](principle-one-focus-on-customer-value-and-adaptability/final-thoughts.md)
-* [Principle two: Technology excellence is the strategy](principle-two-technology-excellence-is-the-strategy/README.md)
-  * [Applying the principle in practice](principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice.md)
-  * [What good looks like](principle-two-technology-excellence-is-the-strategy/what-good-looks-like.md)
-  * [Common failure modes](principle-two-technology-excellence-is-the-strategy/common-failure-modes.md)
-  * [Final thoughts](principle-two-technology-excellence-is-the-strategy/final-thoughts.md)
-* [Principle three: Choose product teams over project teams](principle-three-choose-product-teams-over-project-teams/README.md)
-  * [Applying the principle in practice](principle-three-choose-product-teams-over-project-teams/applying-the-principle-in-practice.md)
-  * [What good looks like](principle-three-choose-product-teams-over-project-teams/what-good-looks-like.md)
-  * [Common failure modes](principle-three-choose-product-teams-over-project-teams/common-failure-modes.md)
-  * [Final thoughts](principle-three-choose-product-teams-over-project-teams/final-thoughts.md)
-* [Principle four: Divide and conquer](principle-four-divide-and-conquer-1/README.md)
-  * [Applying the principle in practice](principle-four-divide-and-conquer-1/applying-the-principle-in-practice.md)
-  * [What good looks like](principle-four-divide-and-conquer-1/what-good-looks-like.md)
-  * [Common failure modes](principle-four-divide-and-conquer-1/common-failure-modes.md)
-  * [Final thoughts](principle-four-divide-and-conquer-1/final-thoughts.md)
-* [Principle five: Integrate governance, risk and compliance experts with product teams early and often](untitled-1/README.md)
-  * [Applying the principle in practice](untitled-1/applying-the-principle-in-practice.md)
-  * [What good looks like](untitled-1/what-good-looks-like.md)
-  * [Common failure modes](untitled-1/common-failure-modes.md)
-  * [Final thoughts](untitled-1/principle-five-integrate-lightweight-grc-with-product-teams-early-and-often.md)
-* [Principle six: Measure what matters](principle-six-measure-what-matters-1/README.md)
-  * [Applying the principle in practice](principle-six-measure-what-matters-1/applying-the-principle-in-practice.md)
-  * [What good looks like](principle-six-measure-what-matters-1/what-good-looks-like.md)
-  * [Common failure modes](principle-six-measure-what-matters-1/common-failure-modes.md)
-  * [Final thoughts](principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
-* [Part II Summary](summary.md)
+* [Introduction](six-principles-of-digital-transformation/introduction.md)
+* [Principle one: Focus on customer value and adaptability](six-principles-of-digital-transformation/principle-one-focus-on-customer-value-and-adaptability/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/principle-one-focus-on-customer-value-and-adaptability/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/principle-one-focus-on-customer-value-and-adaptability/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/principle-one-focus-on-customer-value-and-adaptability/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/principle-one-focus-on-customer-value-and-adaptability/final-thoughts.md)
+* [Principle two: Technology excellence is the strategy](six-principles-of-digital-transformation/principle-two-technology-excellence-is-the-strategy/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/principle-two-technology-excellence-is-the-strategy/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/principle-two-technology-excellence-is-the-strategy/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/principle-two-technology-excellence-is-the-strategy/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/principle-two-technology-excellence-is-the-strategy/final-thoughts.md)
+* [Principle three: Choose product teams over project teams](six-principles-of-digital-transformation/principle-three-choose-product-teams-over-project-teams/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/principle-three-choose-product-teams-over-project-teams/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/principle-three-choose-product-teams-over-project-teams/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/principle-three-choose-product-teams-over-project-teams/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/principle-three-choose-product-teams-over-project-teams/final-thoughts.md)
+* [Principle four: Divide and conquer](six-principles-of-digital-transformation/principle-four-divide-and-conquer-1/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/principle-four-divide-and-conquer-1/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/principle-four-divide-and-conquer-1/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/principle-four-divide-and-conquer-1/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/principle-four-divide-and-conquer-1/final-thoughts.md)
+* [Principle five: Integrate governance, risk and compliance experts with product teams early and often](six-principles-of-digital-transformation/untitled-1/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/untitled-1/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/untitled-1/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/untitled-1/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/untitled-1/principle-five-integrate-lightweight-grc-with-product-teams-early-and-often.md)
+* [Principle six: Measure what matters](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/README.md)
+  * [Applying the principle in practice](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/applying-the-principle-in-practice.md)
+  * [What good looks like](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/what-good-looks-like.md)
+  * [Common failure modes](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/common-failure-modes.md)
+  * [Final thoughts](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
+* [Part II Summary](six-principles-of-digital-transformation/summary.md)
 
 ## Part III - Micro-transformation
 
@@ -80,7 +78,5 @@
 
 ## Endnotes
 
----
-
-* [Endnotes](endnotes-1.md)
+* [Endnotes](endnotes/endnotes-1.md)
 
