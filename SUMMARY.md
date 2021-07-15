@@ -71,12 +71,12 @@
   * [How it works](step-four-thin-slice-the-work/how-it-works.md)
   * [Why it works](step-four-thin-slice-the-work/why-it-works.md)
   * [Final thoughts](step-four-thin-slice-the-work/final-thoughts.md)
-* [Part III Summary](summary-1.md)
-* [Conclusion](untitled.md)
+* [Part III Summary](part-three-summary.md)
+* [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 
 ## Endnotes <a id="04-endnotes"></a>
 
-* [Endnotes](04-endnotes/endnotes-1.md)
+* [Endnotes](04-endnotes/endnotes.md)
 * [License](04-endnotes/license.md)
 

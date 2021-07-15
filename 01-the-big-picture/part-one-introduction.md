@@ -6,7 +6,7 @@ Digital has changed the game, and these are the three themes that will ultimatel
 
 But for many leaders, the digital transformation process can be challenging. Oftentimes, there are simply not enough resources available to meet the demands of the future without trading away the present. And while many leaders have tried to solve this problem, most have found the answer to the digital challenge elusive, if not downright vexing.
 
-Nevertheless, organizations of all kinds are going digital [\[2\]](../04-endnotes/endnotes-1.md), hoping to catch the next big wave. And while most organizations will achieve some degree of success, the unfortunate reality is that most will fail to realize truly transformational results from their investments.
+Nevertheless, organizations of all kinds are going digital [\[2\]](../04-endnotes/endnotes.md), hoping to catch the next big wave. And while most organizations will achieve some degree of success, the unfortunate reality is that most will fail to realize truly transformational results from their investments.
 
 Why?
 
