@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-epub": "npx honkit epub ./ ./the_better_way.epub && npx honkit mobi ./ ./the_better_way.mobi"
+    "build-ebooks": "npx honkit epub ./ ./the_better_way.epub && npx honkit mobi ./ ./the_better_way.mobi",
+    "build-epub": "npx honkit epub ./ ./the_better_way.epub",
+    "build-pdf": "npx honkit pdf ./ ./the_better_way.pdf"
   },
   "repository": {
     "type": "git",
@@ -18,12 +20,8 @@
   },
   "homepage": "https://github.com/ngMachina/the_better_way#readme",
   "dependencies": {
-    "ebook-convert": "^2.0.1",
     "gitbook-plugin-hints": "^1.0.2",
-    "graceful-fs": "^4.2.6",
-    "honkit": "^3.6.20",
-    "malta": "^4.1.28",
-    "malta-epub": "^1.0.10"
+    "honkit": "^3.6.20"
   },
   "devDependencies": {
     "gitbook-plugin-page-footer": "^5.4.3"
