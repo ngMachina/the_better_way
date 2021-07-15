@@ -12,5 +12,5 @@ This means product teams start from a list of questions, rather than a list of r
 
 At Rangle, we love this way of working because it not only helps tackle the biggest risks upfront, it also fosters collaboration and orients the core functions \(strategy, product, engineering, experience and data\) around customer problems rather than features.
 
-But making the shift to product teams can be a big change for many established organizations, particularly for those with entrenched organizational and functional constraints, such as those we reviewed in [Part I](../../why-digital-transformation-is-important/introduction.md). In the next section, we’ll explore the key changes that organizations must implement in order to make the shift to product teams.
+But making the shift to product teams can be a big change for many established organizations, particularly for those with entrenched organizational and functional constraints, such as those we reviewed in [Part I](../../01-the-big-picture/part-one-introduction.md). In the next section, we’ll explore the key changes that organizations must implement in order to make the shift to product teams.
 

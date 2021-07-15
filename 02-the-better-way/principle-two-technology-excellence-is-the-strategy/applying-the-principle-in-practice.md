@@ -40,11 +40,11 @@ In order to deliver on the strategic competencies outlined above, transforming o
 
 With continuous delivery, the objective is to enable fast feedback loops by providing the capability to safely and frequently release code into a production environment. Continuous Delivery provides a huge competitive advantage for companies, because fast feedback loops are the key to making CVA work, and the key to maximizing the time value of money on capital investments.
 
-Moreover, Continuous Delivery is a key contributor to overall organizational performance and increased employee happiness because it removes much of the pain and burnout associated with big batch software releases. It is also a significant source of improved software quality and better application performance that also minimizes time spent on rework and unplanned work. [\[9\]](../../endnotes/endnotes-1.md)
+Moreover, Continuous Delivery is a key contributor to overall organizational performance and increased employee happiness because it removes much of the pain and burnout associated with big batch software releases. It is also a significant source of improved software quality and better application performance that also minimizes time spent on rework and unplanned work. [\[9\]](../../04-endnotes/endnotes-1.md)
 
 [DevOps](../../glossary.md), which is a portmanteau for development and operations, is an extension of the continuous delivery philosophy that encourages developers and operations to work and learn together, in a cross-functional way, applying technical excellence to directly benefit customers, value streams and products.
 
-At the heart of the [DevOps](../../glossary.md) philosophy is the notion that organizations no longer need to choose between speed and stability. It is possible to achieve both by implementing good IT practices guided by the five core ideals outlined by Gene Kim in his 2019 book, _The Unicorn Project_ [\[10\]](../../endnotes/endnotes-1.md).
+At the heart of the [DevOps](../../glossary.md) philosophy is the notion that organizations no longer need to choose between speed and stability. It is possible to achieve both by implementing good IT practices guided by the five core ideals outlined by Gene Kim in his 2019 book, _The Unicorn Project_ [\[10\]](../../04-endnotes/endnotes-1.md).
 
 ![Table 2: The Five Ideals of DevOps](../../.gitbook/assets/3%20%283%29%20%282%29.png)
 
@@ -52,5 +52,5 @@ At the heart of the [DevOps](../../glossary.md) philosophy is the notion that or
 
 To avoid attrition and retain consistent levels of performance, talent management is critically important for organizations running a technology-backed business strategy. Developing the careers of your engineers by offering a variety of paths for both junior and senior engineers, including a management track and a specialist track, is vitally important in creating an environment that fosters upskilling as part of daily work and helps engineers feel as though they are moving to the next level.
 
-One of the best ways to enable talent management is to create immersive learning environments that focus on “learning by doing” using Sharon Bowman’s four C’s: connections, concepts, concrete practice and conclusions. We’ll touch on how to implement immersive learning environments in greater detail in [Part III](../../part-iii-micro-transformation/introduction.md), but the key takeaway is that in order to use technology as an effective strategy, it requires nurturing \(and most importantly, retaining\) technical talent.
+One of the best ways to enable talent management is to create immersive learning environments that focus on “learning by doing” using Sharon Bowman’s four C’s: connections, concepts, concrete practice and conclusions. We’ll touch on how to implement immersive learning environments in greater detail in [Part III](../../03-micro-transformation/introduction.md), but the key takeaway is that in order to use technology as an effective strategy, it requires nurturing \(and most importantly, retaining\) technical talent.
 

@@ -16,7 +16,7 @@ Once the right leaders are in place, the next capability is a value-based portfo
 
 LVTs use branches to connect the executive vision to the business portfolio using a cascading metaphor that breaks the vision down into increasingly smaller slices of work known as Outcomes, Bets and Hypotheses.
 
-Outcomes, which we describe in further detail in [Principle Six](../principle-six-measure-what-matters-1/), can be used to express the business vision in an elaborated way that articulates what business results or “outcomes” the organization intends to achieve over the next 12 to 24 months.
+Outcomes, which we describe in further detail in [Principle Six](../principle-six-measure-what-matters/), can be used to express the business vision in an elaborated way that articulates what business results or “outcomes” the organization intends to achieve over the next 12 to 24 months.
 
 Outcomes are connected to Bets, which represent near-term speculative investments that an organization might undertake to determine whether they will be successful at achieving the connected business outcome. Bets are intended to be relatively cheap and use the [principle of optionality](../../glossary.md), which gives leaders the right but not the obligation to invest further based on strong indicators of success.
 

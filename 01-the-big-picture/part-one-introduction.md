@@ -6,7 +6,7 @@ Digital has changed the game, and these are the three themes that will ultimatel
 
 But for many leaders, the digital transformation process can be challenging. Oftentimes, there are simply not enough resources available to meet the demands of the future without trading away the present. And while many leaders have tried to solve this problem, most have found the answer to the digital challenge elusive, if not downright vexing.
 
-Nevertheless, organizations of all kinds are going digital [\[2\]](../endnotes/endnotes-1.md), hoping to catch the next big wave. And while most organizations will achieve some degree of success, the unfortunate reality is that most will fail to realize truly transformational results from their investments.
+Nevertheless, organizations of all kinds are going digital [\[2\]](../04-endnotes/endnotes-1.md), hoping to catch the next big wave. And while most organizations will achieve some degree of success, the unfortunate reality is that most will fail to realize truly transformational results from their investments.
 
 Why?
 
@@ -18,11 +18,11 @@ The question of course, is how? How do you integrate digital into the core of yo
 
 That is what this book will show you how to do. These principles and transformation techniques have been developed working with some of the largest and most complex businesses today. They are based on a singular business model of co-creating digital-first operating models with a vast number of different companies and seeing where the friction and resistance come from
 
-In [Part I](introduction.md), we’ll explore how radical changes in consumer preferences, rapid technological progress and profound organizational complexity have combined to create a perfect storm that can only be solved by digitally transforming your organizational ecosystem. This will help anchor the digital-first vision.
+In [Part I](part-one-introduction.md), we’ll explore how radical changes in consumer preferences, rapid technological progress and profound organizational complexity have combined to create a perfect storm that can only be solved by digitally transforming your organizational ecosystem. This will help anchor the digital-first vision.
 
-In [Part II](../six-principles-of-digital-transformation/introduction.md), we will outline six guiding principles you can use to build a responsive organization that is fit-for-purpose in the Digital Era. This will help anchor the transformation principles that will define your future-state operating model.
+In [Part II](../02-the-better-way/part-two-introduction.md), we will outline six guiding principles you can use to build a responsive organization that is fit-for-purpose in the Digital Era. This will help anchor the transformation principles that will define your future-state operating model.
 
-Finally in [Part III](../part-iii-micro-transformation/introduction.md), we’ll introduce you to Rangle’s micro-transformation model, which enables organizations to apply an iterative and incremental approach to the transformation process that is pragmatic and human-centered. It is experience-driven, adaptive rather than prescriptive, and is entirely based on creating outcomes in evolving, and uncertain complex systems. Moreover, unlike the principles in [Part II](../six-principles-of-digital-transformation/introduction.md), [Part III](../part-iii-micro-transformation/introduction.md) is very opinionated, as it’s based on an obsession with creating digital-first customer-experience outcomes for any organization.
+Finally in [Part III](../03-micro-transformation/introduction.md), we’ll introduce you to Rangle’s micro-transformation model, which enables organizations to apply an iterative and incremental approach to the transformation process that is pragmatic and human-centered. It is experience-driven, adaptive rather than prescriptive, and is entirely based on creating outcomes in evolving, and uncertain complex systems. Moreover, unlike the principles in [Part II](../02-the-better-way/part-two-introduction.md), [Part III](../03-micro-transformation/introduction.md) is very opinionated, as it’s based on an obsession with creating digital-first customer-experience outcomes for any organization.
 
 Taken together, each part can help you articulate and shape your organization's future state as well as provide guidance and direction as you define your transformation strategy.
 
