@@ -30,8 +30,8 @@ jobs:
         run: npm install
 
       # Runs a single command using the runners shell
-      - name: Build out the epub file
-        run: npm run build-epub
+      - name: Build out the ebook files
+        run: npm run build-ebooks
 
       - name: Save Epub Artifact
         uses: actions/upload-artifact@v2
