@@ -4,7 +4,7 @@ In the first two steps of the micro-transformation model, we showed you how to d
 
 As shown in Figure R below, thin-slicing can be used to design outcomes that require deep organizational collaboration to achieve, but are narrow in terms of scope.
 
-![Figure R: Example of a thinly-sliced transformational outcome](../.gitbook/assets/1%20%283%29%20%281%29.png)
+![Figure R: Example of a thinly-sliced transformational outcome](../../.gitbook/assets/1%20%283%29%20%281%29.png)
 
 This technique provides transforming organizations with an ideal way to achieve three important objectives. First, it provides transforming organizations with a straightforward way to ensure the transformation process is inclusive. Second, because thin-slices are intended to integrate many layers of the organization, it allows the organization to test and refine the future state hypothesis across many interaction points. Third, because thin-slices are designed as real-world exercises, the business benefits from the eventual value they generate.
 

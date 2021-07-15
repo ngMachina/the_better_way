@@ -51,27 +51,27 @@
 
 ## Part III - Micro-transformation <a id="03-micro-transformation"></a>
 
-* [Introduction](03-micro-transformation/introduction.md)
+* [Introduction](03-micro-transformation/part-three-introduction.md)
 * [Step one: Design effective cross-functional teams](03-micro-transformation/step-1-design-effective-cross-functional-teams/README.md)
   * [How it works](03-micro-transformation/step-1-design-effective-cross-functional-teams/how-it-works.md)
   * [Why it works](03-micro-transformation/step-1-design-effective-cross-functional-teams/why-it-works.md)
   * [Final thoughts](03-micro-transformation/step-1-design-effective-cross-functional-teams/final-thoughts.md)
+* [Step two: Create immersive working environments](03-micro-transformation/step-two-create-immersive-working-environments/README.md)
+  * [How it works](03-micro-transformation/step-two-create-immersive-working-environments/how-it-works.md)
+  * [Why it works](03-micro-transformation/step-two-create-immersive-working-environments/why-it-works.md)
+  * [Final thoughts](03-micro-transformation/step-two-create-immersive-working-environments/final-thoughts.md)
+* [Step three: Implement the Starter Kata](03-micro-transformation/step-three-implement-the-starter-kata/README.md)
+  * [How it works](03-micro-transformation/step-three-implement-the-starter-kata/how-it-works.md)
+  * [Why it works](03-micro-transformation/step-three-implement-the-starter-kata/why-it-works.md)
+  * [Final thoughts](03-micro-transformation/step-three-implement-the-starter-kata/final-thoughts.md)
+* [Step four: Thin-slice the work](03-micro-transformation/step-four-thin-slice-the-work/README.md)
+  * [How it works](03-micro-transformation/step-four-thin-slice-the-work/how-it-works.md)
+  * [Why it works](03-micro-transformation/step-four-thin-slice-the-work/why-it-works.md)
+  * [Final thoughts](03-micro-transformation/step-four-thin-slice-the-work/final-thoughts.md)
+* [Part III Summary](03-micro-transformation/part-three-summary.md)
 
 ---
 
-* [Step two: Create immersive working environments](step-two-create-immersive-working-environments/README.md)
-  * [How it works](step-two-create-immersive-working-environments/how-it-works.md)
-  * [Why it works](step-two-create-immersive-working-environments/why-it-works.md)
-  * [Final thoughts](step-two-create-immersive-working-environments/final-thoughts.md)
-* [Step three: Implement the Starter Kata](step-three-implement-the-starter-kata/README.md)
-  * [How it works](step-three-implement-the-starter-kata/how-it-works.md)
-  * [Why it works](step-three-implement-the-starter-kata/why-it-works.md)
-  * [Final thoughts](step-three-implement-the-starter-kata/final-thoughts.md)
-* [Step four: Thin-slice the work](step-four-thin-slice-the-work/README.md)
-  * [How it works](step-four-thin-slice-the-work/how-it-works.md)
-  * [Why it works](step-four-thin-slice-the-work/why-it-works.md)
-  * [Final thoughts](step-four-thin-slice-the-work/final-thoughts.md)
-* [Part III Summary](part-three-summary.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 

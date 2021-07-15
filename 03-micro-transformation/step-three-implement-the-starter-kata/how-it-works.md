@@ -9,7 +9,7 @@ The Coaching Kata is used to teach coalitions and pods how to _apply_ the Improv
 
 _Note: We will explore the five questions in more detail later._
 
-![Figure O: The Improvement Kata and Coaching Kata working in paralell](../.gitbook/assets/20%20%281%29%20%281%29.png)
+![Figure O: The Improvement Kata and Coaching Kata working in paralell](../../.gitbook/assets/20%20%281%29%20%281%29.png)
 
 As shown above, the Improvement Kata and the Coaching Kata are used together to help teams work through a two-phase process that includes the following four steps.
 
@@ -43,7 +43,7 @@ Without a target condition, many teams will engage in unproductive, unvalidated 
 
 One of the most effective ways for coalitions and pods to establish a target condition is to follow the “when, what, how” approach. In this case, _when_ represents the “achieve-by date”, _what_ represents a “measurable improvement metric” and _how_ represents “the new operating pattern” \(i.e. the future state\). Once the target condition has been established, coalitions and pods can use an Improvement Board like the one shown in Figure P below to help them visualize the work in process and track measurable improvement metrics from the current to target condition.
 
-![Figure P: Example of an Improvement Board](../.gitbook/assets/21.png)
+![Figure P: Example of an Improvement Board](../../.gitbook/assets/21.png)
 
 The Improvement Board is not only a visualization tool. It will also provide the focal point for daily coaching activities \(the Coaching Kata\), which we will explore in more detail in the next section.
 
@@ -57,7 +57,7 @@ Step four is fundamentally a process of following the scientific method, startin
 
 To do this, many teams use the well-known Plan-Do-Check-Act \(PDCA\) cycle which we’ve summarized in Table VII below.
 
-![Table VII: The four step PDCA cycle](../.gitbook/assets/22%20%281%29.png)
+![Table VII: The four step PDCA cycle](../../.gitbook/assets/22%20%281%29.png)
 
 As teams move through the PDCA cycle, they use the Improvement Board shown in Figure P to keep track of their overall progress as well as to guide their daily Coaching Kata discussions.
 
