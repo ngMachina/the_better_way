@@ -48,7 +48,6 @@
   * [Common failure modes](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/common-failure-modes.md)
   * [Final thoughts](six-principles-of-digital-transformation/principle-six-measure-what-matters-1/principle-six-measure-what-matters.md)
 * [Part II Summary](six-principles-of-digital-transformation/part-ii-summary.md)
-* [Part II Summary](six-principles-of-digital-transformation/summary.md)
 
 ## Part III - Micro-transformation
 
