@@ -2,7 +2,7 @@
 
 ### **Organizational structures**
 
-Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, _The Connected Company_ [\[6}](../04-endnotes/endnotes.md). 
+Most companies today are “divided hierarchies”, a term coined by author Dave Gray in his book, _The Connected Company_ [\[6\]](../04-endnotes/endnotes.md). 
 
 In a divided hierarchy, work is essentially divided up and distributed into zones, with each zone performing highly specific, repeatable and well-defined tasks that are delegated top-down in a command and control style.  
 ****
