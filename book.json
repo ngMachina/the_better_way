@@ -1,3 +1,16 @@
 {
-  "plugins": ["hints"]
+  "plugins": ["hints", "image-captions"],
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "_CAPTION_"
+    }
+  },
+  "author": "Kevin Gibson",
+  "title": "The Better Way: Transformation principles for the real world",
+  "authorSort": "Gibson, Kevin",
+  "publisher": "Rangle",
+  "language": "en",
+  "styles": {
+    "ebook": "styles/ebook.css"
+  }
 }
