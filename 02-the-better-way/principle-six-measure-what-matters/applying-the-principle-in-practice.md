@@ -12,7 +12,7 @@ Your hypotheses are just educated guesses at this point, so the next step is to 
 
 To get a sense of what that process might look like, we’ve adapted the following diagram from Teresa Torres to show how this works in practice.
 
-![Figure K: Using a series of experiments to discover the best outcome](../../.gitbook/assets/15%20%281%29.png)
+![Figure K: Using a series of experiments to discover the best outcome](../../.gitbook/assets/15%20%281%29%20%281%29.png)
 
 The last piece of this process are the measures of success themselves, i.e. How will we know we are successful?” In this example, the best way to measure success is to design bespoke measures of success using a combination of leading and lagging indicators.
 

@@ -4,7 +4,7 @@ To apply principle five in practice, start by targeting three key areas of focus
 
 The first focus area is _clarity_, which, as shown in Table V below, strives to ensure that both GRC managers and product teams understand the purpose of governance, risk and compliance and how to apply it appropriately within a technology powered, customer-first, product-centric, continuous delivery model.
 
-![Table V: Understanding the role of governance vs risk vs compliance](../../.gitbook/assets/12%20%281%29%20%281%29.png)
+![Table V: Understanding the role of governance vs risk vs compliance](../../.gitbook/assets/12%20%281%29%20%281%29%20%281%29.png)
 
 By creating this clarity, many organizations will be able to move away from a one-size-fits-all approach to GRC and use an evolutionary approach that is measured and rational. The key benefit of this approach is that when done well, lead times and time to value can dramatically improve.
 

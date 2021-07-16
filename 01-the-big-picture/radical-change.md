@@ -24,8 +24,6 @@ In his 2019 book, _Unlocking the Customer Value Chain_ [\[3\]](../04-endnotes/en
 
 ![Figure A: Examples of decoupled activities and their disruptors](../.gitbook/assets/0%20%288%29.png)
 
-**Figure N: Examples of decoupled activities and their disruptors**
-
 Perhaps the most classic example of how decoupling can work to great effect comes from Amazon and how they were able to successfully use decoupling to disrupt the analog book purchasing experience with a fully digital experience.
 
 Incumbent organizations must learn to disrupt, defend and differentiate before they are displaced themselves.

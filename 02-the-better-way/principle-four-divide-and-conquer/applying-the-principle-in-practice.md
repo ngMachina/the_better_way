@@ -12,7 +12,7 @@ Note that these competencies are distinctly different, and success in one area o
 
 Once the right leaders are in place, the next capability is a value-based portfolio, which works backward from the executive vision and strategy to prioritize a portfolio of organizational investments and aligns all levels of the organization to a common purpose. [Lean Value Trees](../../glossary.md) are one of the most popular and effective ways to create this alignment. As shown in Figure H below, an LVT is a visualization tool used to articulate how the organizational vision and business strategy will be disseminated into a strategic portfolio of investments.
 
-![Figure H: Example of an LVT](../../.gitbook/assets/10%20%281%29%20%281%29.png)
+![Figure H: Example of an LVT](../../.gitbook/assets/10%20%281%29%20%282%29%20%281%29.png)
 
 LVTs use branches to connect the executive vision to the business portfolio using a cascading metaphor that breaks the vision down into increasingly smaller slices of work known as Outcomes, Bets and Hypotheses.
 
@@ -28,7 +28,7 @@ Finally, the third capability is value-based prioritization, which helps organiz
 
 There are many different models for prioritization, but one of the easiest to implement is Weighted Shortest Job First. As shown in Table IV below, WSJF can be used to sequence a portfolio of potential initiatives based on their relative cost of delay divided by their relative job size using a simple calculation. Sequencing initiatives using WSJF ensures the best possible return in the shortest amount of time.
 
-![Table IV: Example of Weighted Shortest Job First](../../.gitbook/assets/1%20%282%29%20%282%29.png)
+![Table IV: Example of Weighted Shortest Job First](../../.gitbook/assets/1%20%282%29%20%282%29%20%282%29.png)
 
 {% hint style="warning" %}
 _**Note**: To learn more about value based prioritization models like WSJF and others, visit the Value-Based Prioritization section in the appendix._
