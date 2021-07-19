@@ -22,7 +22,6 @@
   "dependencies": {
     "gitbook-plugin-hints": "^1.0.2",
     "gitbook-plugin-image-captions": "^3.1.0",
-    "gitbook-plugin-summary": "^1.1.0",
     "honkit": "^3.6.20"
   },
   "devDependencies": {
