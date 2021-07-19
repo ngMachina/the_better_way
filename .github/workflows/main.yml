@@ -27,7 +27,7 @@ jobs:
         run: brew install --cask calibre
       
       - name: npm install
-        run: npm install
+        run: npm clean-install
 
       # Runs a single command using the runners shell
       - name: Build out the ebook files
