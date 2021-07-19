@@ -1,6 +1,7 @@
-.section.toc li .inner span {
-  display: none;
-}
 .page .book-chapter {
   display: none;
+}
+.part-title >.page-title--header {
+  page-break-after: avoid !important;
+  page-break-before: avoid !important;
 }
