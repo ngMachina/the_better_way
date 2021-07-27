@@ -6,7 +6,7 @@ Applying principle two in practice means starting with the first competency, whi
 
 As shown in Figure E below, meeting the two involves evaluating the customer experience and the activities that make up that experience from end to end, starting from the digital experience. This is comprised of devices, interfaces and user experience, and how they inter-operate with consumer touchpoints \(such as customer service and technical support\), followed by the back office operations that support that experience.
 
-![Figure E: Technology as strategy, end to end](../../.gitbook/assets/5%20%281%29%20%282%29.png)
+![Figure E: Technology as strategy, end to end](../../.gitbook/assets/5%20%281%29%20%282%29%20%282%29.png)
 
 To get started on defining your platform strategy, the key question that must be answered is, “How might we strategically apply technology to incrementally improve the customer experience?”. It’s important to call out a few keywords here.
 
@@ -46,7 +46,7 @@ Moreover, Continuous Delivery is a key contributor to overall organizational per
 
 At the heart of the [DevOps](../../glossary.md) philosophy is the notion that organizations no longer need to choose between speed and stability. It is possible to achieve both by implementing good IT practices guided by the five core ideals outlined by Gene Kim in his 2019 book, _The Unicorn Project_ [\[10\]](../../04-endnotes/endnotes.md).
 
-![Table 2: The Five Ideals of DevOps](../../.gitbook/assets/3%20%283%29%20%282%29%20%282%29.png)
+![Table 2: The Five Ideals of DevOps](../../.gitbook/assets/3%20%283%29%20%282%29%20%282%29%20%282%29.png)
 
 ### Competency 3: Talent management
 

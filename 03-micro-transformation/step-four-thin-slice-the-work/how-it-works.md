@@ -4,7 +4,7 @@ To get started with the thin-slice technique, it's generally a good idea to foll
 
 Through this visualization technique, it may be easier to spot opportunities to use thin-slicing in a way that ladders up to the big picture.
 
-![Figure S: Thin-slices should build off the strategic vision and business goals](../../.gitbook/assets/24%20%281%29%20%281%29.png)
+![Figure S: Thin-slices should build off the strategic vision and business goals](../../.gitbook/assets/24%20%281%29%20%281%29%20%281%29.png)
 
 If you are able to successfully identify an opportunity to thin-slice, the next step in the Improvement Kata would be to “grasp the current condition”. An example of how to do this is to map the customer experience, and then, as shown in Figure T below, use value stream mapping to gather data about the current condition.
 

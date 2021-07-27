@@ -43,7 +43,7 @@ Without a target condition, many teams will engage in unproductive, unvalidated 
 
 One of the most effective ways for coalitions and pods to establish a target condition is to follow the “when, what, how” approach. In this case, _when_ represents the “achieve-by date”, _what_ represents a “measurable improvement metric” and _how_ represents “the new operating pattern” \(i.e. the future state\). Once the target condition has been established, coalitions and pods can use an Improvement Board like the one shown in Figure P below to help them visualize the work in process and track measurable improvement metrics from the current to target condition.
 
-![Figure P: Example of an Improvement Board](../../.gitbook/assets/21%20%281%29.png)
+![Figure P: Example of an Improvement Board](../../.gitbook/assets/21%20%281%29%20%281%29.png)
 
 The Improvement Board is not only a visualization tool. It will also provide the focal point for daily coaching activities \(the Coaching Kata\), which we will explore in more detail in the next section.
 
