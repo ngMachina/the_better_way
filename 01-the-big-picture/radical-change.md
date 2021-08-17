@@ -24,5 +24,11 @@ In his 2019 book, _Unlocking the Customer Value Chain_ [\[3\]](../04-endnotes/en
 
 Perhaps the most classic example of how decoupling can work to great effect comes from Amazon and how they were able to successfully use decoupling to disrupt the analog book purchasing experience with a fully digital experience.
 
+They did this by removing as many non-value adding activities from the customer experience as possible. In this case, the non-value adding activities included travelling to the store, searching through long stacks of books and waiting in line to pay. Through digital, Amazon was able to replace these actions with value-adding activities like home delivery, digital search and one-click purchasing. Then, through their Kindle eBook service, Amazon once again decoupled the analog book buying experience by reducing customer time-to-value to a few clicks. 
+
+Over the past two decades, there are more and more examples that show the power of decoupling as a disruptive force. In another example, Teixeira demonstrates how Netflix successfully offered customers an unrivalled entertainment experience in terms of variety, price and time-to-value, while leaving telecom providers to fulfill the costly and complex work of delivering internet connectivity service. 
+
+And while Amazon and Netflix are no longer upstarts, for incumbent organizations, the threat of new businesses with similar potential will continue to be a significant existential threat. And, as interconnectivity between devices and lower transaction costs merge with unprecedented AI and automation capabilities, this threat will only continue.
+
 Incumbent organizations must learn to disrupt, defend and differentiate before they are displaced themselves.
 
