@@ -14,5 +14,5 @@ In the micro-transformation model, coalitions are partnered with a line of busin
 
 As shown in the figure below, coalitions support pods, which enables them to reach the future state as quickly as possible with the least amount of friction.
 
-![Figure M: Coalitions support Pods](../../.gitbook/assets/18%20%281%29%20%281%29.png)
+![Figure M: Coalitions support Pods, adapted from Guo, O&apos;Brien, Mason](../../.gitbook/assets/18%20%281%29%20%281%29.png)
 
