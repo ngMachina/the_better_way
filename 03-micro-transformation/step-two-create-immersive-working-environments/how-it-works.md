@@ -58,7 +58,7 @@ In their book _Creating Your Dojo_, authors Dion Stewart and Joel Tosi describe 
 
 During the charter session, the team agrees on what they will deliver, what they will learn, and how they will work for the next six weeks. They also take care to decide how they will manage dependencies such as access to environments, repos, tools, etc.
 
-After approximately four hours, the team should be able to produce the following artifacts:
+According to Stewart and Tosi, after approximately four hours, the team should be able to produce the following artifacts:
 
 * Team Name
 * Timeframe
