@@ -9,7 +9,7 @@ The Coaching Kata is used to teach coalitions and pods how to _apply_ the Improv
 
 _Note: We will explore the five questions in more detail later._
 
-![Figure O: The Improvement Kata and Coaching Kata working in paralell](../../.gitbook/assets/20%20%281%29%20%281%29.png)
+![Figure O: The Improvement Kata and Coaching Kata working in parallel, adapted from Rother](../../.gitbook/assets/20%20%281%29%20%281%29.png)
 
 As shown above, the Improvement Kata and the Coaching Kata are used together to help teams work through a two-phase process that includes the following four steps.
 
