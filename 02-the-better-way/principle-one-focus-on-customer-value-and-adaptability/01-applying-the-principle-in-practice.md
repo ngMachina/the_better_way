@@ -2,7 +2,7 @@
 
 To apply CVA in practice, start by visualizing your organization as an ecosystem of interdependent business functions like those shown in Figure D below.
 
-![Figure D: Example of an organizational ecosystem](../../.gitbook/assets/4%20%281%29%20%281%29.png)
+![Figure D: Example of an organizational ecosystem, adapted from Highsmith, Lu, Robinson](../../.gitbook/assets/4%20%281%29%20%281%29.png)
 
 In order to make the principle work, you’ll need each function within the ecosystem to adopt the CVA principle and mindset.
 
