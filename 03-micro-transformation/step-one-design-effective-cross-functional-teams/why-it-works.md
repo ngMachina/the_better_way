@@ -1,6 +1,6 @@
 # Why it works
 
-Empowered cross-functional teams aligned by shared outcomes are the best way to navigate in uncertain and unpredictable environments.
+Empowered cross-functional teams aligned by shared principles outcomes and measures of success are the best way to navigate uncertain and unpredictable environments.
 
 Through shared outcomes, cross-functional teams and pods are better able to collaborate with a common purpose and mission, which enables them to continuously identify, prioritize, and break down risky assumptions, and then use their collective capabilities to “swarm” both opportunities and challenges accordingly.
 
