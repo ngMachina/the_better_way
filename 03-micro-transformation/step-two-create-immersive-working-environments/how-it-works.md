@@ -39,7 +39,7 @@ During the consultation, coaches will again meet with coalitions and pods to bri
 
 In addition, coaches will begin to work with the coalitions and pods to gain alignment as to the broad outcomes and the commitment required, as well as explore any technical, product or process practices the group might want to learn.
 
-In their book _Creating Your Dojo_, authors Dion Stewart and Joel Tosi describe some of the key questions that need to to be answered during the consult:
+In their book _Creating Your Dojo_, authors Dion Stewart and Joel Tosi describe some of the key questions that need to be answered during the consult:
 
 * What products are you working on?
 * How does the work flow into and through the team?
